@@ -1,35 +1,162 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="6" total="9" passed="3">
+<testng-results skipped="0" failed="1" ignored="0" total="12" passed="11">
   <reporter-output>
   </reporter-output>
-  <suite name="ABC Loan Bank" duration-ms="52" started-at="2020-04-13T16:34:49 EDT" finished-at="2020-04-13T16:34:49 EDT">
+  <suite name="ABC Loan Bank" duration-ms="2136" started-at="2020-04-13T17:29:30 EDT" finished-at="2020-04-13T17:29:32 EDT">
     <groups>
       <group name="regression">
-        <method signature="PersonalLoanTestCases.mobileLoginTest()[pri:0, instance:grouping.PersonalLoanTestCases@63753b6d]" name="mobileLoginTest" class="grouping.PersonalLoanTestCases"/>
+        <method signature="PersonalLoanTestCases.RestLoginTest()[pri:0, instance:parameteratxmlfilelevel.PersonalLoanTestCases@6b09bb57]" name="RestLoginTest" class="parameteratxmlfilelevel.PersonalLoanTestCases"/>
+        <method signature="PersonalLoanTestCases.mobileLoginTest()[pri:0, instance:parameteratxmlfilelevel.PersonalLoanTestCases@6b09bb57]" name="mobileLoginTest" class="parameteratxmlfilelevel.PersonalLoanTestCases"/>
+        <method signature="HomeLoanTestCases.mobileLoginTest()[pri:0, instance:parameteratxmlfilelevel.HomeLoanTestCases@2758fe70]" name="mobileLoginTest" class="parameteratxmlfilelevel.HomeLoanTestCases"/>
+        <method signature="HomeLoanTestCases.paramterTest(java.lang.String)[pri:0, instance:parameteratxmlfilelevel.HomeLoanTestCases@2758fe70]" name="paramterTest" class="parameteratxmlfilelevel.HomeLoanTestCases"/>
+        <method signature="HomeLoanTestCases.webLoginTest()[pri:0, instance:parameteratxmlfilelevel.HomeLoanTestCases@2758fe70]" name="webLoginTest" class="parameteratxmlfilelevel.HomeLoanTestCases"/>
       </group> <!-- regression -->
       <group name="smoke">
-        <method signature="CarLoanTestCases.webLoginTest()[pri:0, instance:grouping.CarLoanTestCases@5f9d02cb]" name="webLoginTest" class="grouping.CarLoanTestCases"/>
-        <method signature="PersonalLoanTestCases.mobileLoginTest()[pri:0, instance:grouping.PersonalLoanTestCases@63753b6d]" name="mobileLoginTest" class="grouping.PersonalLoanTestCases"/>
-        <method signature="PersonalLoanTestCases.webLoginTest()[pri:0, instance:grouping.PersonalLoanTestCases@63753b6d]" name="webLoginTest" class="grouping.PersonalLoanTestCases"/>
+        <method signature="CarLoanTestCases.webLoginTest(java.lang.String)[pri:0, instance:parameteratxmlfilelevel.CarLoanTestCases@63753b6d]" name="webLoginTest" class="parameteratxmlfilelevel.CarLoanTestCases"/>
+        <method signature="PersonalLoanTestCases.mobileLoginTest()[pri:0, instance:parameteratxmlfilelevel.PersonalLoanTestCases@6b09bb57]" name="mobileLoginTest" class="parameteratxmlfilelevel.PersonalLoanTestCases"/>
+        <method signature="PersonalLoanTestCases.webLoginTest(java.lang.String)[pri:0, instance:parameteratxmlfilelevel.PersonalLoanTestCases@6b09bb57]" name="webLoginTest" class="parameteratxmlfilelevel.PersonalLoanTestCases"/>
       </group> <!-- smoke -->
     </groups>
-    <test name="Smoke test cases" duration-ms="52" started-at="2020-04-13T16:34:49 EDT" finished-at="2020-04-13T16:34:49 EDT">
-      <class name="grouping.CarLoanTestCases">
-        <test-method status="PASS" signature="webLoginTest()[pri:0, instance:grouping.CarLoanTestCases@5f9d02cb]" name="webLoginTest" duration-ms="13" started-at="2020-04-13T16:34:49 EDT" finished-at="2020-04-13T16:34:49 EDT">
+    <test name="Car Loan Test Cases" duration-ms="2077" started-at="2020-04-13T17:29:30 EDT" finished-at="2020-04-13T17:29:32 EDT">
+      <class name="parameteratxmlfilelevel.PersonalLoanTestCases">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:parameteratxmlfilelevel.PersonalLoanTestCases@6b09bb57]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2020-04-13T17:29:32 EDT" finished-at="2020-04-13T17:29:32 EDT">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- webLoginTest -->
-      </class> <!-- grouping.CarLoanTestCases -->
-      <class name="grouping.PersonalLoanTestCases">
-        <test-method status="PASS" signature="mobileLoginTest()[pri:0, instance:grouping.PersonalLoanTestCases@63753b6d]" name="mobileLoginTest" duration-ms="1" started-at="2020-04-13T16:34:49 EDT" finished-at="2020-04-13T16:34:49 EDT">
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:parameteratxmlfilelevel.PersonalLoanTestCases@6b09bb57]" name="beforeClass" is-config="true" duration-ms="0" started-at="2020-04-13T17:29:32 EDT" finished-at="2020-04-13T17:29:32 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="RestLoginTest()[pri:0, instance:parameteratxmlfilelevel.PersonalLoanTestCases@6b09bb57]" name="RestLoginTest" duration-ms="2" started-at="2020-04-13T17:29:32 EDT" finished-at="2020-04-13T17:29:32 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestLoginTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:parameteratxmlfilelevel.PersonalLoanTestCases@6b09bb57]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-04-13T17:29:32 EDT" finished-at="2020-04-13T17:29:32 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:parameteratxmlfilelevel.PersonalLoanTestCases@6b09bb57]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2020-04-13T17:29:32 EDT" finished-at="2020-04-13T17:29:32 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="mobileLoginTest()[pri:0, instance:parameteratxmlfilelevel.PersonalLoanTestCases@6b09bb57]" name="mobileLoginTest" duration-ms="3" started-at="2020-04-13T17:29:32 EDT" finished-at="2020-04-13T17:29:32 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- mobileLoginTest -->
-        <test-method status="PASS" signature="webLoginTest()[pri:0, instance:grouping.PersonalLoanTestCases@63753b6d]" name="webLoginTest" duration-ms="1" started-at="2020-04-13T16:34:49 EDT" finished-at="2020-04-13T16:34:49 EDT">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:parameteratxmlfilelevel.PersonalLoanTestCases@6b09bb57]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-04-13T17:29:32 EDT" finished-at="2020-04-13T17:29:32 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="webLoginTest(java.lang.String)[pri:0, instance:parameteratxmlfilelevel.PersonalLoanTestCases@6b09bb57]" name="webLoginTest" duration-ms="1" started-at="2020-04-13T17:29:32 EDT" finished-at="2020-04-13T17:29:32 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[myexample.com]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- webLoginTest -->
-      </class> <!-- grouping.PersonalLoanTestCases -->
-    </test> <!-- Smoke test cases -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:parameteratxmlfilelevel.PersonalLoanTestCases@6b09bb57]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2020-04-13T17:29:32 EDT" finished-at="2020-04-13T17:29:32 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:parameteratxmlfilelevel.PersonalLoanTestCases@6b09bb57]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-04-13T17:29:32 EDT" finished-at="2020-04-13T17:29:32 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:parameteratxmlfilelevel.PersonalLoanTestCases@6b09bb57]" name="afterClass" is-config="true" duration-ms="0" started-at="2020-04-13T17:29:32 EDT" finished-at="2020-04-13T17:29:32 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- parameteratxmlfilelevel.PersonalLoanTestCases -->
+      <class name="parameteratxmlfilelevel.CarLoanTestCases">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:parameteratxmlfilelevel.CarLoanTestCases@63753b6d]" name="beforeTest" is-config="true" duration-ms="0" started-at="2020-04-13T17:29:30 EDT" finished-at="2020-04-13T17:29:30 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="RestLoginTest()[pri:0, instance:parameteratxmlfilelevel.CarLoanTestCases@63753b6d]" name="RestLoginTest" duration-ms="6" started-at="2020-04-13T17:29:30 EDT" finished-at="2020-04-13T17:29:30 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestLoginTest -->
+        <test-method status="PASS" signature="enabledExample()[pri:0, instance:parameteratxmlfilelevel.CarLoanTestCases@63753b6d]" name="enabledExample" duration-ms="2" started-at="2020-04-13T17:29:30 EDT" finished-at="2020-04-13T17:29:30 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enabledExample -->
+        <test-method status="PASS" signature="webLoginTest(java.lang.String)[pri:0, instance:parameteratxmlfilelevel.CarLoanTestCases@63753b6d]" name="webLoginTest" duration-ms="2" started-at="2020-04-13T17:29:30 EDT" finished-at="2020-04-13T17:29:30 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[myexample.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webLoginTest -->
+        <test-method status="FAIL" signature="zTimeOutExample()[pri:0, instance:parameteratxmlfilelevel.CarLoanTestCases@63753b6d]" name="zTimeOutExample" duration-ms="2011" started-at="2020-04-13T17:29:30 EDT" finished-at="2020-04-13T17:29:32 EDT">
+          <exception class="org.testng.internal.thread.ThreadTimeoutException">
+            <message>
+              <![CDATA[Method parameteratxmlfilelevel.CarLoanTestCases.zTimeOutExample() didn't finish within the time-out 2000]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.internal.thread.ThreadTimeoutException: Method parameteratxmlfilelevel.CarLoanTestCases.zTimeOutExample() didn't finish within the time-out 2000
+at java.util.HashSet.remove(HashSet.java:236)
+at java.util.concurrent.ThreadPoolExecutor.processWorkerExit(ThreadPoolExecutor.java:1009)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.internal.thread.ThreadTimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- zTimeOutExample -->
+        <test-method status="PASS" signature="mobileLoginTest()[pri:0, instance:parameteratxmlfilelevel.CarLoanTestCases@63753b6d]" name="mobileLoginTest" duration-ms="1" started-at="2020-04-13T17:29:32 EDT" depends-on-methods="parameteratxmlfilelevel.CarLoanTestCases.RestLoginTest" finished-at="2020-04-13T17:29:32 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileLoginTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:parameteratxmlfilelevel.CarLoanTestCases@63753b6d]" name="afterTest" is-config="true" duration-ms="0" started-at="2020-04-13T17:29:32 EDT" finished-at="2020-04-13T17:29:32 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- parameteratxmlfilelevel.CarLoanTestCases -->
+    </test> <!-- Car Loan Test Cases -->
+    <test name="Home Loan Test Cases" duration-ms="7" started-at="2020-04-13T17:29:32 EDT" finished-at="2020-04-13T17:29:32 EDT">
+      <class name="parameteratxmlfilelevel.HomeLoanTestCases">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:parameteratxmlfilelevel.HomeLoanTestCases@2758fe70]" name="beforeSuite" is-config="true" duration-ms="11" started-at="2020-04-13T17:29:30 EDT" finished-at="2020-04-13T17:29:30 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="RestLoginTest()[pri:0, instance:parameteratxmlfilelevel.HomeLoanTestCases@2758fe70]" name="RestLoginTest" duration-ms="1" started-at="2020-04-13T17:29:32 EDT" finished-at="2020-04-13T17:29:32 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestLoginTest -->
+        <test-method status="PASS" signature="mobileLoginTest()[pri:0, instance:parameteratxmlfilelevel.HomeLoanTestCases@2758fe70]" name="mobileLoginTest" duration-ms="0" started-at="2020-04-13T17:29:32 EDT" finished-at="2020-04-13T17:29:32 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileLoginTest -->
+        <test-method status="PASS" signature="paramterTest(java.lang.String)[pri:0, instance:parameteratxmlfilelevel.HomeLoanTestCases@2758fe70]" name="paramterTest" duration-ms="1" started-at="2020-04-13T17:29:32 EDT" finished-at="2020-04-13T17:29:32 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abchomeloan.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- paramterTest -->
+        <test-method status="PASS" signature="webLoginTest()[pri:0, instance:parameteratxmlfilelevel.HomeLoanTestCases@2758fe70]" name="webLoginTest" duration-ms="1" started-at="2020-04-13T17:29:32 EDT" finished-at="2020-04-13T17:29:32 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webLoginTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:parameteratxmlfilelevel.HomeLoanTestCases@2758fe70]" name="afterSuite" is-config="true" duration-ms="0" started-at="2020-04-13T17:29:32 EDT" finished-at="2020-04-13T17:29:32 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- parameteratxmlfilelevel.HomeLoanTestCases -->
+    </test> <!-- Home Loan Test Cases -->
   </suite> <!-- ABC Loan Bank -->
 </testng-results>

@@ -24,7 +24,7 @@
     <div class="top-banner-root">
       <span class="top-banner-title-font">Test results</span>
       <br/>
-      <span class="top-banner-font-1">1 suite</span>
+      <span class="top-banner-font-1">1 suite, 1 failed test</span>
     </div> <!-- top-banner-root -->
     <div class="navigator-root">
       <div class="navigator-suite-header">
@@ -38,7 +38,7 @@
         <div class="rounded-window">
           <div class="suite-header light-rounded-window-top">
             <a href="#" class="navigator-link" panel-name="suite-ABC_Loan_Bank">
-              <span class="suite-name border-passed">ABC Loan Bank</span>
+              <span class="suite-name border-failed">ABC Loan Bank</span>
             </a> <!-- navigator-link -->
           </div> <!-- suite-header light-rounded-window-top -->
           <div class="navigator-suite-content">
@@ -49,12 +49,12 @@
               <ul>
                 <li>
                   <a href="#" class="navigator-link " panel-name="test-xml-ABC_Loan_Bank">
-                    <span>6grouping.xml</span>
+                    <span>7XMLFileParameterization.xml</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
                   <a href="#" class="navigator-link " panel-name="testlist-ABC_Loan_Bank">
-                    <span class="test-stats">1 test</span>
+                    <span class="test-stats">2 tests</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
@@ -91,7 +91,21 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">3 methods,   3 passed</span>
+                    <span class="method-stats">12 methods, 1 failed,   11 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title failed">Failed methods</span>
+                    <span class="show-or-hide-methods failed">
+                      <a href="#" panel-name="suite-ABC_Loan_Bank" class="hide-methods failed suite-ABC_Loan_Bank"> (hide)</a> <!-- hide-methods failed suite-ABC_Loan_Bank -->
+                      <a href="#" panel-name="suite-ABC_Loan_Bank" class="show-methods failed suite-ABC_Loan_Bank"> (show)</a> <!-- show-methods failed suite-ABC_Loan_Bank -->
+                    </span>
+                    <div class="method-list-content failed suite-ABC_Loan_Bank">
+                      <span>
+                        <img width="3%" src="failed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-ABC_Loan_Bank" title="parameteratxmlfilelevel.CarLoanTestCases" hash-for-method="zTimeOutExample">zTimeOutExample</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content failed suite-ABC_Loan_Bank -->
                   </li>
                   <li>
                     <span class="method-list-title passed">Passed methods</span>
@@ -102,17 +116,57 @@
                     <div class="method-list-content passed suite-ABC_Loan_Bank">
                       <span>
                         <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-ABC_Loan_Bank" title="grouping.PersonalLoanTestCases" hash-for-method="mobileLoginTest">mobileLoginTest</a> <!-- method navigator-link -->
+                        <a href="#" class="method navigator-link" panel-name="suite-ABC_Loan_Bank" title="parameteratxmlfilelevel.CarLoanTestCases" hash-for-method="RestLoginTest">RestLoginTest</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                       <span>
                         <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-ABC_Loan_Bank" title="grouping.CarLoanTestCases" hash-for-method="webLoginTest">webLoginTest</a> <!-- method navigator-link -->
+                        <a href="#" class="method navigator-link" panel-name="suite-ABC_Loan_Bank" title="parameteratxmlfilelevel.PersonalLoanTestCases" hash-for-method="RestLoginTest">RestLoginTest</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                       <span>
                         <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-ABC_Loan_Bank" title="grouping.PersonalLoanTestCases" hash-for-method="webLoginTest">webLoginTest</a> <!-- method navigator-link -->
+                        <a href="#" class="method navigator-link" panel-name="suite-ABC_Loan_Bank" title="parameteratxmlfilelevel.HomeLoanTestCases" hash-for-method="RestLoginTest">RestLoginTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-ABC_Loan_Bank" title="parameteratxmlfilelevel.CarLoanTestCases" hash-for-method="enabledExample">enabledExample</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-ABC_Loan_Bank" title="parameteratxmlfilelevel.CarLoanTestCases" hash-for-method="mobileLoginTest">mobileLoginTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-ABC_Loan_Bank" title="parameteratxmlfilelevel.PersonalLoanTestCases" hash-for-method="mobileLoginTest">mobileLoginTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-ABC_Loan_Bank" title="parameteratxmlfilelevel.HomeLoanTestCases" hash-for-method="mobileLoginTest">mobileLoginTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-ABC_Loan_Bank" title="parameteratxmlfilelevel.HomeLoanTestCases" hash-for-method="paramterTest(abchomeloan.com)">paramterTest(abchomeloan.com)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-ABC_Loan_Bank" title="parameteratxmlfilelevel.CarLoanTestCases" hash-for-method="webLoginTest(myexample.com)">webLoginTest(myexample.com)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-ABC_Loan_Bank" title="parameteratxmlfilelevel.PersonalLoanTestCases" hash-for-method="webLoginTest(myexample.com)">webLoginTest(myexample.com)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-ABC_Loan_Bank" title="parameteratxmlfilelevel.HomeLoanTestCases" hash-for-method="webLoginTest">webLoginTest</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                     </div> <!-- method-list-content passed suite-ABC_Loan_Bank -->
@@ -127,27 +181,49 @@
     <div class="wrapper">
       <div class="main-panel-root">
         <div panel-name="suite-ABC_Loan_Bank" class="panel ABC_Loan_Bank">
-          <div class="suite-ABC_Loan_Bank-class-passed">
+          <div class="suite-ABC_Loan_Bank-class-failed">
             <div class="main-panel-header rounded-window-top">
-              <img src="passed.png"/>
-              <span class="class-name">grouping.CarLoanTestCases</span>
+              <img src="failed.png"/>
+              <span class="class-name">parameteratxmlfilelevel.CarLoanTestCases</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="webLoginTest">
-                  </a> <!-- webLoginTest -->
-                  <span class="method-name">webLoginTest</span>
+                  <a name="zTimeOutExample">
+                  </a> <!-- zTimeOutExample -->
+                  <span class="method-name">zTimeOutExample</span>
+                  <div class="stack-trace">org.testng.internal.thread.ThreadTimeoutException: Method parameteratxmlfilelevel.CarLoanTestCases.zTimeOutExample() didn&apos;t finish within the time-out 2000
+	at java.util.HashSet.remove(HashSet.java:236)
+	at java.util.concurrent.ThreadPoolExecutor.processWorkerExit(ThreadPoolExecutor.java:1009)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+</div> <!-- stack-trace -->
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
-          </div> <!-- suite-ABC_Loan_Bank-class-passed -->
+          </div> <!-- suite-ABC_Loan_Bank-class-failed -->
           <div class="suite-ABC_Loan_Bank-class-passed">
             <div class="main-panel-header rounded-window-top">
               <img src="passed.png"/>
-              <span class="class-name">grouping.PersonalLoanTestCases</span>
+              <span class="class-name">parameteratxmlfilelevel.CarLoanTestCases</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="RestLoginTest">
+                  </a> <!-- RestLoginTest -->
+                  <span class="method-name">RestLoginTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="enabledExample">
+                  </a> <!-- enabledExample -->
+                  <span class="method-name">enabledExample</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
               <div class="method">
                 <div class="method-content">
                   <a name="mobileLoginTest">
@@ -157,6 +233,44 @@
               </div> <!-- method -->
               <div class="method">
                 <div class="method-content">
+                  <a name="webLoginTest(myexample.com)">
+                  </a> <!-- webLoginTest(myexample.com) -->
+                  <span class="method-name">webLoginTest</span>
+                  <span class="parameters">(myexample.com)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-ABC_Loan_Bank-class-passed -->
+          <div class="suite-ABC_Loan_Bank-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">parameteratxmlfilelevel.HomeLoanTestCases</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="RestLoginTest">
+                  </a> <!-- RestLoginTest -->
+                  <span class="method-name">RestLoginTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="mobileLoginTest">
+                  </a> <!-- mobileLoginTest -->
+                  <span class="method-name">mobileLoginTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="paramterTest(abchomeloan.com)">
+                  </a> <!-- paramterTest(abchomeloan.com) -->
+                  <span class="method-name">paramterTest</span>
+                  <span class="parameters">(abchomeloan.com)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
                   <a name="webLoginTest">
                   </a> <!-- webLoginTest -->
                   <span class="method-name">webLoginTest</span>
@@ -164,28 +278,59 @@
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
           </div> <!-- suite-ABC_Loan_Bank-class-passed -->
+          <div class="suite-ABC_Loan_Bank-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">parameteratxmlfilelevel.PersonalLoanTestCases</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="RestLoginTest">
+                  </a> <!-- RestLoginTest -->
+                  <span class="method-name">RestLoginTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="mobileLoginTest">
+                  </a> <!-- mobileLoginTest -->
+                  <span class="method-name">mobileLoginTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="webLoginTest(myexample.com)">
+                  </a> <!-- webLoginTest(myexample.com) -->
+                  <span class="method-name">webLoginTest</span>
+                  <span class="parameters">(myexample.com)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-ABC_Loan_Bank-class-passed -->
         </div> <!-- panel ABC_Loan_Bank -->
         <div panel-name="test-xml-ABC_Loan_Bank" class="panel">
           <div class="main-panel-header rounded-window-top">
-            <span class="header-content">/Users/suresh/eclipse-workspace/TestNGTutorial/6grouping.xml</span>
+            <span class="header-content">/Users/suresh/eclipse-workspace/TestNGTutorial/7XMLFileParameterization.xml</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <pre>
 &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
 &lt;!DOCTYPE suite SYSTEM &quot;https://testng.org/testng-1.0.dtd&quot;&gt;
 &lt;suite guice-stage=&quot;DEVELOPMENT&quot; name=&quot;ABC Loan Bank&quot;&gt;
-  &lt;test thread-count=&quot;5&quot; name=&quot;Smoke test cases&quot;&gt;
-    &lt;groups&gt;
-      &lt;run&gt;
-        &lt;include name=&quot;smoke&quot;/&gt;
-      &lt;/run&gt;
-    &lt;/groups&gt;
+  &lt;parameter name=&quot;URL&quot; value=&quot;myexample.com&quot;/&gt;
+  &lt;test thread-count=&quot;5&quot; name=&quot;Car Loan Test Cases&quot;&gt;
     &lt;classes&gt;
-      &lt;class name=&quot;grouping.CarLoanTestCases&quot;/&gt;
-      &lt;class name=&quot;grouping.PersonalLoanTestCases&quot;/&gt;
-      &lt;class name=&quot;grouping.HomeLoanTestCases&quot;/&gt;
+      &lt;class name=&quot;parameteratxmlfilelevel.CarLoanTestCases&quot;/&gt;
+      &lt;class name=&quot;parameteratxmlfilelevel.PersonalLoanTestCases&quot;/&gt;
     &lt;/classes&gt;
-  &lt;/test&gt; &lt;!-- Smoke test cases --&gt;
+  &lt;/test&gt; &lt;!-- Car Loan Test Cases --&gt;
+  &lt;test thread-count=&quot;5&quot; name=&quot;Home Loan Test Cases&quot;&gt;
+    &lt;parameter name=&quot;URL&quot; value=&quot;abchomeloan.com&quot;/&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;parameteratxmlfilelevel.HomeLoanTestCases&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- Home Loan Test Cases --&gt;
 &lt;/suite&gt; &lt;!-- ABC Loan Bank --&gt;
             </pre>
           </div> <!-- main-panel-content rounded-window-bottom -->
@@ -197,7 +342,10 @@
           <div class="main-panel-content rounded-window-bottom">
             <ul>
               <li>
-                <span class="test-name">Smoke test cases (3 classes)</span>
+                <span class="test-name">Car Loan Test Cases (2 classes)</span>
+              </li>
+              <li>
+                <span class="test-name">Home Loan Test Cases (1 class)</span>
               </li>
             </ul>
           </div> <!-- main-panel-content rounded-window-bottom -->
@@ -211,7 +359,19 @@
               <span class="test-group-name">regression</span>
               <br/>
               <div class="method-in-group">
+                <span class="method-in-group-name">RestLoginTest</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
                 <span class="method-in-group-name">mobileLoginTest</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">paramterTest</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">webLoginTest</span>
                 <br/>
               </div> <!-- method-in-group -->
             </div> <!-- test-group -->
@@ -243,24 +403,60 @@ data.addColumn('number', 'Number');
 data.addColumn('string', 'Method');
 data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
-data.addRows(3);
+data.addRows(12);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'webLoginTest')
-data.setCell(0, 2, 'grouping.CarLoanTestCases')
-data.setCell(0, 3, 13);
+data.setCell(0, 1, 'zTimeOutExample')
+data.setCell(0, 2, 'parameteratxmlfilelevel.CarLoanTestCases')
+data.setCell(0, 3, 2011);
 data.setCell(1, 0, 1)
-data.setCell(1, 1, 'mobileLoginTest')
-data.setCell(1, 2, 'grouping.PersonalLoanTestCases')
-data.setCell(1, 3, 1);
+data.setCell(1, 1, 'RestLoginTest')
+data.setCell(1, 2, 'parameteratxmlfilelevel.CarLoanTestCases')
+data.setCell(1, 3, 6);
 data.setCell(2, 0, 2)
-data.setCell(2, 1, 'webLoginTest')
-data.setCell(2, 2, 'grouping.PersonalLoanTestCases')
-data.setCell(2, 3, 1);
+data.setCell(2, 1, 'mobileLoginTest')
+data.setCell(2, 2, 'parameteratxmlfilelevel.PersonalLoanTestCases')
+data.setCell(2, 3, 3);
+data.setCell(3, 0, 3)
+data.setCell(3, 1, 'enabledExample')
+data.setCell(3, 2, 'parameteratxmlfilelevel.CarLoanTestCases')
+data.setCell(3, 3, 2);
+data.setCell(4, 0, 4)
+data.setCell(4, 1, 'webLoginTest')
+data.setCell(4, 2, 'parameteratxmlfilelevel.CarLoanTestCases')
+data.setCell(4, 3, 2);
+data.setCell(5, 0, 5)
+data.setCell(5, 1, 'RestLoginTest')
+data.setCell(5, 2, 'parameteratxmlfilelevel.PersonalLoanTestCases')
+data.setCell(5, 3, 2);
+data.setCell(6, 0, 6)
+data.setCell(6, 1, 'mobileLoginTest')
+data.setCell(6, 2, 'parameteratxmlfilelevel.CarLoanTestCases')
+data.setCell(6, 3, 1);
+data.setCell(7, 0, 7)
+data.setCell(7, 1, 'webLoginTest')
+data.setCell(7, 2, 'parameteratxmlfilelevel.PersonalLoanTestCases')
+data.setCell(7, 3, 1);
+data.setCell(8, 0, 8)
+data.setCell(8, 1, 'webLoginTest')
+data.setCell(8, 2, 'parameteratxmlfilelevel.HomeLoanTestCases')
+data.setCell(8, 3, 1);
+data.setCell(9, 0, 9)
+data.setCell(9, 1, 'paramterTest')
+data.setCell(9, 2, 'parameteratxmlfilelevel.HomeLoanTestCases')
+data.setCell(9, 3, 1);
+data.setCell(10, 0, 10)
+data.setCell(10, 1, 'RestLoginTest')
+data.setCell(10, 2, 'parameteratxmlfilelevel.HomeLoanTestCases')
+data.setCell(10, 3, 1);
+data.setCell(11, 0, 11)
+data.setCell(11, 1, 'mobileLoginTest')
+data.setCell(11, 2, 'parameteratxmlfilelevel.HomeLoanTestCases')
+data.setCell(11, 3, 0);
 window.suiteTableData['ABC_Loan_Bank']= { tableData: data, tableDiv: 'times-div-ABC_Loan_Bank'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 15 ms</span>
+              <span class="suite-total-time">Total running time: 2 seconds</span>
               <div id="times-div-ABC_Loan_Bank">
               </div> <!-- times-div-ABC_Loan_Bank -->
             </div> <!-- times-div -->
@@ -275,36 +471,9 @@ return data;
         </div> <!-- panel -->
         <div panel-name="ignored-methods-ABC_Loan_Bank" class="panel">
           <div class="main-panel-header rounded-window-top">
-            <span class="header-content">6 ignored methods</span>
+            <span class="header-content">0 ignored methods</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
-            <div class="ignored-class-div">
-              <span class="ignored-class-name">grouping.CarLoanTestCases</span>
-              <div class="ignored-methods-div">
-                <span class="ignored-method-name">RestLoginTest</span>
-                <br/>
-                <span class="ignored-method-name">mobileLoginTest</span>
-                <br/>
-              </div> <!-- ignored-methods-div -->
-            </div> <!-- ignored-class-div -->
-            <div class="ignored-class-div">
-              <span class="ignored-class-name">grouping.PersonalLoanTestCases</span>
-              <div class="ignored-methods-div">
-                <span class="ignored-method-name">RestLoginTest</span>
-                <br/>
-              </div> <!-- ignored-methods-div -->
-            </div> <!-- ignored-class-div -->
-            <div class="ignored-class-div">
-              <span class="ignored-class-name">grouping.HomeLoanTestCases</span>
-              <div class="ignored-methods-div">
-                <span class="ignored-method-name">mobileLoginTest</span>
-                <br/>
-                <span class="ignored-method-name">webLoginTest</span>
-                <br/>
-                <span class="ignored-method-name">RestLoginTest</span>
-                <br/>
-              </div> <!-- ignored-methods-div -->
-            </div> <!-- ignored-class-div -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
         <div panel-name="chronological-ABC_Loan_Bank" class="panel">
@@ -313,22 +482,117 @@ return data;
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <div class="chronological-class">
-              <div class="chronological-class-name">grouping.CarLoanTestCases</div> <!-- chronological-class-name -->
-              <div class="test-method">
-                <span class="method-name">webLoginTest</span>
+              <div class="chronological-class-name">parameteratxmlfilelevel.HomeLoanTestCases</div> <!-- chronological-class-name -->
+              <div class="configuration-suite before">
+                <span class="method-name">beforeSuite</span>
                 <span class="method-start">0 ms</span>
+              </div> <!-- configuration-suite before -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">parameteratxmlfilelevel.CarLoanTestCases</div> <!-- chronological-class-name -->
+              <div class="configuration-test before">
+                <span class="method-name">beforeTest</span>
+                <span class="method-start">14 ms</span>
+              </div> <!-- configuration-test before -->
+              <div class="test-method">
+                <span class="method-name">RestLoginTest</span>
+                <span class="method-start">36 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">enabledExample</span>
+                <span class="method-start">45 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">webLoginTest(myexample.com)</span>
+                <span class="method-start">50 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">zTimeOutExample</span>
+                <span class="method-start">55 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">mobileLoginTest</span>
+                <span class="method-start">2071 ms</span>
               </div> <!-- test-method -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
-              <div class="chronological-class-name">grouping.PersonalLoanTestCases</div> <!-- chronological-class-name -->
+              <div class="chronological-class-name">parameteratxmlfilelevel.PersonalLoanTestCases</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">beforeClass</span>
+                <span class="method-start">2075 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="configuration-method before">
+                <span class="method-name">beforeMethod</span>
+                <span class="method-start">2075 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">RestLoginTest</span>
+                <span class="method-start">2076 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">afterMethod</span>
+                <span class="method-start">2079 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">beforeMethod</span>
+                <span class="method-start">2080 ms</span>
+              </div> <!-- configuration-method before -->
               <div class="test-method">
                 <span class="method-name">mobileLoginTest</span>
-                <span class="method-start">18 ms</span>
+                <span class="method-start">2080 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">afterMethod</span>
+                <span class="method-start">2084 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">beforeMethod</span>
+                <span class="method-start">2085 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">webLoginTest(myexample.com)</span>
+                <span class="method-start">2085 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">afterMethod</span>
+                <span class="method-start">2087 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-class after">
+                <span class="method-name">afterClass</span>
+                <span class="method-start">2088 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">parameteratxmlfilelevel.CarLoanTestCases</div> <!-- chronological-class-name -->
+              <div class="configuration-test after">
+                <span class="method-name">afterTest</span>
+                <span class="method-start">2088 ms</span>
+              </div> <!-- configuration-test after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">parameteratxmlfilelevel.HomeLoanTestCases</div> <!-- chronological-class-name -->
+              <div class="test-method">
+                <span class="method-name">RestLoginTest</span>
+                <span class="method-start">2141 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">mobileLoginTest</span>
+                <span class="method-start">2143 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">paramterTest(abchomeloan.com)</span>
+                <span class="method-start">2144 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">webLoginTest</span>
-                <span class="method-start">20 ms</span>
+                <span class="method-start">2145 ms</span>
               </div> <!-- test-method -->
+              <div class="configuration-suite after">
+                <span class="method-name">afterSuite</span>
+                <span class="method-start">2150 ms</span>
+              </div> <!-- configuration-suite after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
       </div> <!-- main-panel-root -->
