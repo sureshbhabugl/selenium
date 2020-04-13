@@ -1,0 +1,66 @@
+package Selenium;
+
+import java.time.Duration;
+import java.util.*;
+import java.util.NoSuchElementException;
+import java.util.concurrent.TimeUnit;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.support.ui.FluentWait;
+import org.openqa.selenium.support.ui.Wait;
+
+public class FluentWaitExample {
+
+	public static void main(String[] args) {
+
+		System.setProperty("webdriver.chrome.driver", "/Users/suresh/eclipse-workspace/bin/bin/driver/chromedriver");
+
+		WebDriver driver = new ChromeDriver();
+
+		driver.get("https://the-internet.herokuapp.com/dynamic_loading/1");
+
+		/*
+		 * 
+		 * The syntax for defining the wait object is 
+		 * Wait<WebDriver> wait = new FluentWait<WebDriver>(driver)
+		 *  .withTimeout(30, TimeUnit.SECONDS)
+		 * .pollingEvery(5, TimeUnit.SECONDS)
+		 * .ignoring(NoSuchElementException.class);
+		 * 
+		 * 
+		 * 
+		 */
+
+		Wait<WebDriver> wait = new FluentWait<WebDriver>(driver)
+				.withTimeout(30, TimeUnit.SECONDS)
+				.pollingEvery(5, TimeUnit.SECONDS)
+				.ignoring(NoSuchElementException.class);
+		
+		
+		//********************Remember***************************
+		
+		/*
+		 * 
+		 * Implementation of FluentWait for the object is as follows
+		 * 
+		 * WebElement foo = wait.until(new Function<WebDriver, WebElement>() 
+			{
+    					public WebElement apply(WebDriver driver) {
+    					return driver.findElement(By.id("foo"));
+				}
+			});
+		 */
+
+		
+		WebElement helloWorld = wait.until(new Function<WebDriver,WebElement>(){
+				
+				public WebElement apply(WebDriver driver) {
+					
+				}
+				
+		});
+	}
+
+}

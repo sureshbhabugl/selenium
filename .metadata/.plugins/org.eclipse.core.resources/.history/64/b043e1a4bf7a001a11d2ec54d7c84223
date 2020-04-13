@@ -1,0 +1,60 @@
+package Selenium;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class Assignment6 {
+	
+	
+	public static void main(String[] args) {
+
+		System.setProperty("webdriver.chrome.driver", "/Users/suresh/eclipse-workspace/bin/bin/driver/chromedriver");
+
+		WebDriver driver = new ChromeDriver();
+
+		driver.get("https://rahulshettyacademy.com/AutomationPractice/");
+
+		String optionLabel = selectRandomCheckBox(driver);
+		
+		// Printing the option selected based on the ID valiue passed.
+		System.out.println("The selected checkbox label is " + optionLabel);
+		
+		//2. Selecting an option based on the 
+
+	}
+	
+	
+	
+	public static String selectRandomCheckBox(WebDriver driver) {
+		
+		int id = driver.findElements(By.cssSelector("input[type='checkbox']")).size();  // I'm counting the number of options that are there in the page to make it dynamic
+
+		WebElement optionToSelect = driver.findElement(By.cssSelector("input#checkBoxOption" + id));
+
+		optionToSelect.click(); // Clicking on the random option based on the value of ID
+		
+		String oLabel = null;
+
+		// In the below loop, I'm looping thur all the options in the page and checking if they are
+		// selected.If selected, I'm extracting the value of the option checked using
+		// "getAttribute()" method.
+		
+		for (int i = 1; i <= id; i++) {
+		
+			WebElement optionCheckBox = driver.findElement(By.cssSelector("input#checkBoxOption" + i));
+			
+			if (optionCheckBox.isSelected()) {
+			
+				oLabel = optionCheckBox.getAttribute("value");
+				
+			}
+		}
+		
+		return !oLabel.isEmpty()?oLabel:null; 
+		
+
+	}
+
+}

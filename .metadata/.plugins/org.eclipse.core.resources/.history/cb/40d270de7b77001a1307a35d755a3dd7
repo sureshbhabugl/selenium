@@ -1,0 +1,16 @@
+package Selenium;
+
+public class SelectorExampleWith$ extends Main {
+
+	public static void main(String[] args) {
+		// There is another way to validate in Chrome and Firefox if the xpath/css constructed is correct.
+		// $("") => is for CSS
+		// $x("") => is for XPAth
+		
+		//The following code is constructed usng the XPath and CSS selector option that is available in the browser without using plugins.
+		
+		
+
+	}
+
+}

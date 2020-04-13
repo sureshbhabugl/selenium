@@ -1,0 +1,20 @@
+package Selenium;
+
+public class CustomXpath {
+	
+	
+
+	public static void main(String[] args) {
+
+		validateFacebookCustomXPath();
+		
+	}
+
+	
+	
+	public static void validateFacebookCustomXPath() {
+		
+		Main main = new Main();
+		
+	}
+}

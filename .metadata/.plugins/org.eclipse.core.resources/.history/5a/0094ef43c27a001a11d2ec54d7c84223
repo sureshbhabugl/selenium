@@ -1,0 +1,23 @@
+package Selenium;
+
+import java.util.Random;
+
+public class TestMain {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Random rand = new Random();
+		
+		int max=3;
+		int min=1;
+		
+		int i=0
+		while( i==10) {
+			System.out.println(rand.nextInt((max - min) + 1) + min);
+			i++
+		}
+
+	}
+
+}

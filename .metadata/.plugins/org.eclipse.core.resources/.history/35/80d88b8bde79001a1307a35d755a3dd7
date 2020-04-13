@@ -1,0 +1,20 @@
+package Selenium;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class ExplicitWaitAssignment {
+
+	public static void main(String[] args) {
+		
+		
+		System.setProperty("webdriver.chrome.driver", "/Users/suresh/eclipse-workspace/bin/bin/driver/chromedriver");
+
+		WebDriver driver = new ChromeDriver();
+		
+		
+
+
+	}
+
+}
