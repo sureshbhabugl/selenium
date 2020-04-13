@@ -15,17 +15,18 @@ Parameterization can be done in 2 places
 	<test name="Car Loan Test Cases">
 		<classes>
 
-			<class name="parameteratxmlfilelevel.CarLoanTestCases" />
+			<class name="dataprovider.CarLoanTestCases" />
 			<!-- NOTE: All tests in the CarLoanTestCases classes will be executed 
 				with a before and after test annotation @BeforeTest & @AfterTest -->
-				<class name="parameteratxmlfilelevel.PersonalLoanTestCases" />
+				<class name="dataprovider.PersonalLoanTestCases" />
 		</classes>
 	</test>
 
 	<test name="Home Loan Test Cases">
 	<parameter name="URL" value = "abchomeloan.com"/>
 		<classes>
-			<class name="parameteratxmlfilelevel.HomeLoanTestCases" />
+			<class name="dataprovider.HomeLoanTestCases" />
+			<class name="dataprovider.HomeLoanWithDataProvider" />
 		</classes>
 	</test>
 </suite> 

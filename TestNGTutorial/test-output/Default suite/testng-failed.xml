@@ -3,13 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="parameteratxmlfilelevel.HomeLoanTestCases">
+      <class name="dataprovider.HomeLoanWithDataProvider">
         <methods>
-          <include name="paramterTest"/>
           <include name="afterSuite"/>
           <include name="beforeSuite"/>
+          <include name="paramterTest"/>
         </methods>
-      </class> <!-- parameteratxmlfilelevel.HomeLoanTestCases -->
+      </class> <!-- dataprovider.HomeLoanWithDataProvider -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

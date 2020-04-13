@@ -1,16 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite guice-stage="DEVELOPMENT" name="Failed suite [ABC Loan Bank]">
+  <parameter name="APIKEY" value="ABC12345678jlksjlkjkljerlktjer"/>
   <parameter name="URL" value="myexample.com"/>
+  <parameter name="Password" value="password123"/>
+  <listeners>
+    <listener class-name="listners.Listners"/>
+  </listeners>
   <test thread-count="5" name="Car Loan Test Cases(failed)">
     <classes>
-      <class name="parameteratxmlfilelevel.CarLoanTestCases">
+      <class name="listners.CarLoanTestCases">
         <methods>
           <include name="afterTest"/>
-          <include name="zTimeOutExample"/>
           <include name="beforeTest"/>
+          <include name="failingTest"/>
         </methods>
-      </class> <!-- parameteratxmlfilelevel.CarLoanTestCases -->
+      </class> <!-- listners.CarLoanTestCases -->
     </classes>
   </test> <!-- Car Loan Test Cases(failed) -->
 </suite> <!-- Failed suite [ABC Loan Bank] -->

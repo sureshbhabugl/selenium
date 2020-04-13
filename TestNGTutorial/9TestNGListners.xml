@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="ABC Loan Bank">
+
+	<listeners>
+        <listener class-name="listners.Listners"/>
+    </listeners>
+
+
+	<!-- Adding the listner class in the xml file -->
+
+
+	<!-- ************************************** Parameterization can be done 
+		in 2 places 1) Suite level 2) Test level ************************** -->
+	<parameter name="URL" value="myexample.com" />
+	<parameter name="APIKEY"
+		value="ABC12345678jlksjlkjkljerlktjer" />
+	<parameter name="Password" value="password123" />
+
+
+	<test name="Car Loan Test Cases">
+		<classes>
+
+			<class name="listners.CarLoanTestCases" />
+			<!-- NOTE: All tests in the CarLoanTestCases classes will be executed 
+				with a before and after test annotation @BeforeTest & @AfterTest -->
+			
+		</classes>
+	</test>
+
+	<test name="Home Loan Test Cases">
+		<parameter name="URL" value="abchomeloan.com" />
+		<classes>
+		
+			<class name="listners.HomeLoanWithDataProvider" />
+		</classes>
+	</test>
+</suite> 

@@ -1,4 +1,4 @@
-package parameteratxmlfilelevel;
+package dataprovider;
 
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;

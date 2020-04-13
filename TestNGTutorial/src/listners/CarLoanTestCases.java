@@ -1,5 +1,6 @@
-package parameteratxmlfilelevel;
+package listners;
 
+import org.testng.Assert;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Parameters;
@@ -15,6 +16,11 @@ public class CarLoanTestCases {
 	 * 3) timeOut=4000 - this attribute can be set to a value (in milliseconds) to enable timeout for a specific method. 
 	 * 
 	 */
+	
+	@Test
+	public void failingTest() {
+		Assert.assertTrue(false);
+	}
 	
 	@Parameters({"URL"})
 	@Test(groups= {"smoke"})
