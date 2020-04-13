@@ -26,7 +26,7 @@ public class Listners implements ITestListener{
 	@Override
 	public void onTestFailure(ITestResult result) {
 		// TODO Auto-generated method stub
-		System.out.println("FAILED");
+		System.out.println("FAILED"+result.getName());
 	}
 
 	

@@ -2,14 +2,7 @@
 
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
 
-<!-- 
-Parallel exdecution can be achieved at 2 levels.
-1) Suite level to mark all Tests to execute in parallel. In this case, you need to provide parallel="tests" and thread-count variable 
-2) Test Level to mark all the classes in the tests to executes in parallel. In this case, you need to provide parallel="classes" and thread-count variable 
-
- -->
-
-<suite name="ABC Loan Bank" parallel="tests" thread-count="5">
+<suite name="ABC Loan Bank">
 
 	<listeners>
         <listener class-name="listners.Listners"/>
@@ -27,7 +20,7 @@ Parallel exdecution can be achieved at 2 levels.
 	<parameter name="Password" value="password123" />
 
 
-	<test name="Car Loan Test Cases" parallel="classes" thread-count="5">
+	<test name="Car Loan Test Cases">
 		<classes>
 
 			<class name="listners.CarLoanTestCases" />

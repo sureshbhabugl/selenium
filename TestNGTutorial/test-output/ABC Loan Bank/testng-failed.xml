@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite guice-stage="DEVELOPMENT" name="Failed suite [ABC Loan Bank]">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [ABC Loan Bank]" parallel="tests">
   <parameter name="APIKEY" value="ABC12345678jlksjlkjkljerlktjer"/>
   <parameter name="URL" value="myexample.com"/>
   <parameter name="Password" value="password123"/>
   <listeners>
     <listener class-name="listners.Listners"/>
   </listeners>
-  <test thread-count="5" name="Car Loan Test Cases(failed)">
+  <test thread-count="5" name="Car Loan Test Cases(failed)" parallel="classes">
     <classes>
       <class name="listners.CarLoanTestCases">
         <methods>

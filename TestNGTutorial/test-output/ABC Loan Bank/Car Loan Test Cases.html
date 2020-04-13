@@ -57,9 +57,9 @@ function toggleAllBoxes() {
 <tr>
 <td>Tests passed/Failed/Skipped:</td><td>5/1/0</td>
 </tr><tr>
-<td>Started on:</td><td>Mon Apr 13 18:50:50 EDT 2020</td>
+<td>Started on:</td><td>Mon Apr 13 19:15:40 EDT 2020</td>
 </tr>
-<tr><td>Total time:</td><td>0 seconds (72 ms)</td>
+<tr><td>Total time:</td><td>0 seconds (69 ms)</td>
 </tr><tr>
 <td>Included groups:</td><td></td>
 </tr><tr>
@@ -78,9 +78,11 @@ function toggleAllBoxes() {
 <td title='listners.CarLoanTestCases.failingTest()'><b>failingTest</b><br>Test class: listners.CarLoanTestCases</td>
 <td><div><pre>java.lang.AssertionError: did not expect to find [true] but found [false]
 	at listners.CarLoanTestCases.failingTest(CarLoanTestCases.java:22)
-	at java.util.ArrayList.forEach(ArrayList.java:1257)
-... Removed 31 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1136497418", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace1136497418'><pre>java.lang.AssertionError: did not expect to find [true] but found [false]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+... Removed 16 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1670820623", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1670820623'><pre>java.lang.AssertionError: did not expect to find [true] but found [false]
 	at org.testng.Assert.fail(Assert.java:97)
 	at org.testng.Assert.failNotEquals(Assert.java:969)
 	at org.testng.Assert.assertTrue(Assert.java:43)
@@ -98,22 +100,9 @@ function toggleAllBoxes() {
 	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:145)
 	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
 	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
-	at java.util.ArrayList.forEach(ArrayList.java:1257)
-	at org.testng.TestRunner.privateRun(TestRunner.java:770)
-	at org.testng.TestRunner.run(TestRunner.java:591)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:402)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:396)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:355)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:304)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1180)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1102)
-	at org.testng.TestNG.runSuites(TestNG.java:1032)
-	at org.testng.TestNG.run(TestNG.java:1000)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
 </pre></div></td>
 <td>0</td>
 <td>listners.CarLoanTestCases@6d7b4f4c</td></tr>
@@ -126,20 +115,50 @@ function toggleAllBoxes() {
 <td><b>Instance</b></td>
 </tr>
 <tr>
+<td title='listners.HomeLoanWithDataProvider.RestLoginTest()'><b>RestLoginTest</b><br>Test class: listners.HomeLoanWithDataProvider<br>Parameters: suresh1, password1</td>
+<td></td>
+<td>0</td>
+<td>listners.HomeLoanWithDataProvider@3701eaf6</td></tr>
+<tr>
 <td title='listners.CarLoanTestCases.RestLoginTest()'><b>RestLoginTest</b><br>Test class: listners.CarLoanTestCases</td>
 <td></td>
 <td>0</td>
 <td>listners.CarLoanTestCases@6d7b4f4c</td></tr>
+<tr>
+<td title='listners.HomeLoanWithDataProvider.RestLoginTest()'><b>RestLoginTest</b><br>Test class: listners.HomeLoanWithDataProvider<br>Parameters: suresh2, password2</td>
+<td></td>
+<td>0</td>
+<td>listners.HomeLoanWithDataProvider@3701eaf6</td></tr>
+<tr>
+<td title='listners.HomeLoanWithDataProvider.RestLoginTest()'><b>RestLoginTest</b><br>Test class: listners.HomeLoanWithDataProvider<br>Parameters: suresh3, password3</td>
+<td></td>
+<td>0</td>
+<td>listners.HomeLoanWithDataProvider@3701eaf6</td></tr>
 <tr>
 <td title='listners.CarLoanTestCases.enabledExample()'><b>enabledExample</b><br>Test class: listners.CarLoanTestCases</td>
 <td></td>
 <td>0</td>
 <td>listners.CarLoanTestCases@6d7b4f4c</td></tr>
 <tr>
+<td title='listners.HomeLoanWithDataProvider.mobileLoginTest()'><b>mobileLoginTest</b><br>Test class: listners.HomeLoanWithDataProvider</td>
+<td></td>
+<td>0</td>
+<td>listners.HomeLoanWithDataProvider@3701eaf6</td></tr>
+<tr>
 <td title='listners.CarLoanTestCases.mobileLoginTest()'><b>mobileLoginTest</b><br>Test class: listners.CarLoanTestCases</td>
 <td></td>
 <td>0</td>
 <td>listners.CarLoanTestCases@6d7b4f4c</td></tr>
+<tr>
+<td title='listners.HomeLoanWithDataProvider.paramterTest()'><b>paramterTest</b><br>Test class: listners.HomeLoanWithDataProvider<br>Parameters: abchomeloan.com</td>
+<td></td>
+<td>0</td>
+<td>listners.HomeLoanWithDataProvider@3701eaf6</td></tr>
+<tr>
+<td title='listners.HomeLoanWithDataProvider.webLoginTest()'><b>webLoginTest</b><br>Test class: listners.HomeLoanWithDataProvider</td>
+<td></td>
+<td>0</td>
+<td>listners.HomeLoanWithDataProvider@3701eaf6</td></tr>
 <tr>
 <td title='listners.CarLoanTestCases.webLoginTest()'><b>webLoginTest</b><br>Test class: listners.CarLoanTestCases<br>Parameters: myexample.com</td>
 <td></td>
