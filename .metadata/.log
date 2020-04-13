@@ -1394,3 +1394,291 @@ java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org
   Class:     org.testng.remote.RemoteTestNG
   Args:      -serport 64519 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/4testng_packagetag_usage.xml
 java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar:/Users/suresh/eclipse-workspace/TestNGTutorial/bin:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 64519 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/4testng_packagetag_usage.xml
+
+!ENTRY org.testng.eclipse 1 0 2020-04-13 15:58:25.189
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar /Users/suresh/eclipse-workspace/TestNGTutorial/bin /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 64681 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/5Annotations.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar:/Users/suresh/eclipse-workspace/TestNGTutorial/bin:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 64681 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/5Annotations.xml
+
+!ENTRY org.testng.eclipse 1 0 2020-04-13 15:59:33.374
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar /Users/suresh/eclipse-workspace/TestNGTutorial/bin /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 64685 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/5Annotations.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar:/Users/suresh/eclipse-workspace/TestNGTutorial/bin:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 64685 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/5Annotations.xml
+
+!ENTRY org.testng.eclipse 1 0 2020-04-13 16:00:53.792
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar /Users/suresh/eclipse-workspace/TestNGTutorial/bin /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 64693 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/5Annotations.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar:/Users/suresh/eclipse-workspace/TestNGTutorial/bin:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 64693 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/5Annotations.xml
+
+!ENTRY org.testng.eclipse 1 0 2020-04-13 16:02:12.713
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar /Users/suresh/eclipse-workspace/TestNGTutorial/bin /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 64703 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/5Annotations.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar:/Users/suresh/eclipse-workspace/TestNGTutorial/bin:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 64703 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/5Annotations.xml
+
+!ENTRY org.testng.eclipse 1 0 2020-04-13 16:04:57.480
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar /Users/suresh/eclipse-workspace/TestNGTutorial/bin /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 64709 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/5Annotations.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar:/Users/suresh/eclipse-workspace/TestNGTutorial/bin:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 64709 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/5Annotations.xml
+
+!ENTRY org.testng.eclipse 1 0 2020-04-13 16:06:33.881
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar /Users/suresh/eclipse-workspace/TestNGTutorial/bin /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 64715 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/5Annotations.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar:/Users/suresh/eclipse-workspace/TestNGTutorial/bin:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 64715 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/5Annotations.xml
+
+!ENTRY org.testng.eclipse 1 0 2020-04-13 16:10:46.762
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar /Users/suresh/eclipse-workspace/TestNGTutorial/bin /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 64729 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/5Annotations.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar:/Users/suresh/eclipse-workspace/TestNGTutorial/bin:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 64729 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/5Annotations.xml
+
+!ENTRY org.testng.eclipse 1 0 2020-04-13 16:11:28.149
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar /Users/suresh/eclipse-workspace/TestNGTutorial/bin /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 64737 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/5Annotations.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar:/Users/suresh/eclipse-workspace/TestNGTutorial/bin:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 64737 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/5Annotations.xml
+
+!ENTRY org.testng.eclipse 1 0 2020-04-13 16:11:55.375
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar /Users/suresh/eclipse-workspace/TestNGTutorial/bin /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 64741 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/5Annotations.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar:/Users/suresh/eclipse-workspace/TestNGTutorial/bin:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 64741 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/5Annotations.xml
+
+!ENTRY org.testng.eclipse 1 0 2020-04-13 16:13:49.481
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar /Users/suresh/eclipse-workspace/TestNGTutorial/bin /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 64746 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/5Annotations.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar:/Users/suresh/eclipse-workspace/TestNGTutorial/bin:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 64746 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/5Annotations.xml
+
+!ENTRY org.testng.eclipse 1 0 2020-04-13 16:16:40.041
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar /Users/suresh/eclipse-workspace/TestNGTutorial/bin /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 64750 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/5Annotations.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar:/Users/suresh/eclipse-workspace/TestNGTutorial/bin:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 64750 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/5Annotations.xml
+
+!ENTRY org.testng.eclipse 1 0 2020-04-13 16:19:37.275
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar /Users/suresh/eclipse-workspace/TestNGTutorial/bin /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 64768 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/5Annotations.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar:/Users/suresh/eclipse-workspace/TestNGTutorial/bin:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 64768 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/5Annotations.xml
+
+!ENTRY org.testng.eclipse 1 0 2020-04-13 16:22:27.182
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar /Users/suresh/eclipse-workspace/TestNGTutorial/bin /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 64785 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/6grouping.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar:/Users/suresh/eclipse-workspace/TestNGTutorial/bin:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 64785 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/6grouping.xml
+
+!ENTRY org.testng.eclipse 1 0 2020-04-13 16:22:54.699
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar /Users/suresh/eclipse-workspace/TestNGTutorial/bin /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 64789 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/6grouping.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar:/Users/suresh/eclipse-workspace/TestNGTutorial/bin:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 64789 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/6grouping.xml
+
+!ENTRY org.testng.eclipse 1 0 2020-04-13 16:23:20.253
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar /Users/suresh/eclipse-workspace/TestNGTutorial/bin /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 64795 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/6grouping.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar:/Users/suresh/eclipse-workspace/TestNGTutorial/bin:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 64795 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/6grouping.xml
+
+!ENTRY org.testng.eclipse 1 0 2020-04-13 16:23:37.873
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar /Users/suresh/eclipse-workspace/TestNGTutorial/bin /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 64799 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/6grouping.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar:/Users/suresh/eclipse-workspace/TestNGTutorial/bin:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 64799 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/6grouping.xml
+
+!ENTRY org.testng.eclipse 1 0 2020-04-13 16:23:41.332
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar /Users/suresh/eclipse-workspace/TestNGTutorial/bin /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 64801 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/6grouping.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar:/Users/suresh/eclipse-workspace/TestNGTutorial/bin:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 64801 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/6grouping.xml
+
+!ENTRY org.testng.eclipse 1 0 2020-04-13 16:23:45.757
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar /Users/suresh/eclipse-workspace/TestNGTutorial/bin /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 64803 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/6grouping.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar:/Users/suresh/eclipse-workspace/TestNGTutorial/bin:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 64803 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/6grouping.xml
+
+!ENTRY org.testng.eclipse 1 0 2020-04-13 16:24:40.608
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar /Users/suresh/eclipse-workspace/TestNGTutorial/bin /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 64813 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/6grouping.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar:/Users/suresh/eclipse-workspace/TestNGTutorial/bin:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 64813 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/6grouping.xml
+
+!ENTRY org.testng.eclipse 1 0 2020-04-13 16:25:20.282
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar /Users/suresh/eclipse-workspace/TestNGTutorial/bin /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 64817 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/6grouping.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar:/Users/suresh/eclipse-workspace/TestNGTutorial/bin:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 64817 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/6grouping.xml
+
+!ENTRY org.testng.eclipse 1 0 2020-04-13 16:25:45.085
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar /Users/suresh/eclipse-workspace/TestNGTutorial/bin /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 64822 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/6grouping.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar:/Users/suresh/eclipse-workspace/TestNGTutorial/bin:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 64822 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/6grouping.xml
+
+!ENTRY org.testng.eclipse 1 0 2020-04-13 16:25:52.897
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar /Users/suresh/eclipse-workspace/TestNGTutorial/bin /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 64826 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/6grouping.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar:/Users/suresh/eclipse-workspace/TestNGTutorial/bin:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 64826 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/6grouping.xml
+
+!ENTRY org.testng.eclipse 1 0 2020-04-13 16:26:04.580
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar /Users/suresh/eclipse-workspace/TestNGTutorial/bin /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 64830 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/6grouping.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar:/Users/suresh/eclipse-workspace/TestNGTutorial/bin:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 64830 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/6grouping.xml
+
+!ENTRY org.testng.eclipse 1 0 2020-04-13 16:26:30.371
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar /Users/suresh/eclipse-workspace/TestNGTutorial/bin /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 64834 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/6grouping.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar:/Users/suresh/eclipse-workspace/TestNGTutorial/bin:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 64834 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/6grouping.xml
+
+!ENTRY org.testng.eclipse 1 0 2020-04-13 16:27:27.020
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar /Users/suresh/eclipse-workspace/TestNGTutorial/bin /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 64841 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/6grouping.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar:/Users/suresh/eclipse-workspace/TestNGTutorial/bin:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 64841 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/6grouping.xml
+
+!ENTRY org.testng.eclipse 1 0 2020-04-13 16:28:59.300
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar /Users/suresh/eclipse-workspace/TestNGTutorial/bin /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 64851 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/6grouping.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar:/Users/suresh/eclipse-workspace/TestNGTutorial/bin:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 64851 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/6grouping.xml
+
+!ENTRY org.testng.eclipse 1 0 2020-04-13 16:29:19.025
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar /Users/suresh/eclipse-workspace/TestNGTutorial/bin /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 64855 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/6grouping.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar:/Users/suresh/eclipse-workspace/TestNGTutorial/bin:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 64855 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/6grouping.xml
+
+!ENTRY org.testng.eclipse 1 0 2020-04-13 16:29:37.276
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar /Users/suresh/eclipse-workspace/TestNGTutorial/bin /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 64859 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/6grouping.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar:/Users/suresh/eclipse-workspace/TestNGTutorial/bin:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 64859 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/6grouping.xml
+
+!ENTRY org.testng.eclipse 1 0 2020-04-13 16:29:55.422
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar /Users/suresh/eclipse-workspace/TestNGTutorial/bin /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 64865 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/6grouping.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar:/Users/suresh/eclipse-workspace/TestNGTutorial/bin:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 64865 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/6grouping.xml
+
+!ENTRY org.testng.eclipse 1 0 2020-04-13 16:30:18.892
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar /Users/suresh/eclipse-workspace/TestNGTutorial/bin /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 64870 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/6grouping.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar:/Users/suresh/eclipse-workspace/TestNGTutorial/bin:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 64870 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/6grouping.xml
+
+!ENTRY org.testng.eclipse 1 0 2020-04-13 16:30:29.241
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar /Users/suresh/eclipse-workspace/TestNGTutorial/bin /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 64874 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/6grouping.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar:/Users/suresh/eclipse-workspace/TestNGTutorial/bin:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 64874 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/6grouping.xml
+
+!ENTRY org.testng.eclipse 1 0 2020-04-13 16:31:14.285
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar /Users/suresh/eclipse-workspace/TestNGTutorial/bin /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 64881 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/6grouping.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar:/Users/suresh/eclipse-workspace/TestNGTutorial/bin:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 64881 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/6grouping.xml
+
+!ENTRY org.testng.eclipse 1 0 2020-04-13 16:33:02.204
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar /Users/suresh/eclipse-workspace/TestNGTutorial/bin /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 64891 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/6grouping.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar:/Users/suresh/eclipse-workspace/TestNGTutorial/bin:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 64891 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/6grouping.xml
+
+!ENTRY org.testng.eclipse 1 0 2020-04-13 16:33:53.176
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar /Users/suresh/eclipse-workspace/TestNGTutorial/bin /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 64902 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/6grouping.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar:/Users/suresh/eclipse-workspace/TestNGTutorial/bin:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 64902 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/6grouping.xml
+
+!ENTRY org.testng.eclipse 1 0 2020-04-13 16:34:33.240
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar /Users/suresh/eclipse-workspace/TestNGTutorial/bin /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 64906 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/6grouping.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar:/Users/suresh/eclipse-workspace/TestNGTutorial/bin:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 64906 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/6grouping.xml
+
+!ENTRY org.testng.eclipse 1 0 2020-04-13 16:34:48.564
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar /Users/suresh/eclipse-workspace/TestNGTutorial/bin /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 64910 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/6grouping.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar:/Users/suresh/eclipse-workspace/TestNGTutorial/bin:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 64910 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/6grouping.xml

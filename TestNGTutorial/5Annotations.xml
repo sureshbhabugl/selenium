@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="ABC Loan Bank">
+	<test name="Car Loan Test Cases">
+		<classes>
+
+			<class name="annotations.CarLoanTestCases" />
+			<!-- NOTE: All tests in the CarLoanTestCases classes will be executed 
+				with a before and after test annotation @BeforeTest & @AfterTest -->
+				<class name="annotations.PersonalLoanTestCases" />
+		</classes>
+	</test>
+
+	<test name="Home Loan Test Cases">
+		<classes>
+			<class name="annotations.HomeLoanTestCases" />
+		</classes>
+	</test>
+</suite> 
