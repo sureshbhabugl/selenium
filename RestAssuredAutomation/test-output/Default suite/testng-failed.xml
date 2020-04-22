@@ -3,12 +3,14 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="TestCases.BasicCRUD">
+      <class name="TestCases.RSAPITest">
         <methods>
-          <include name="getCompetition"/>
+          <include name="changePlaceUsingDyamicPlaceID"/>
+          <include name="tearDown"/>
           <include name="setup"/>
+          <include name="getDynamicPlaceID"/>
         </methods>
-      </class> <!-- TestCases.BasicCRUD -->
+      </class> <!-- TestCases.RSAPITest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

@@ -1,14 +1,20 @@
 package library;
 
 
+import java.util.concurrent.TimeUnit;
+
+import org.testng.annotations.AfterMethod;
+import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 
+import io.restassured.RestAssured;
 import io.restassured.builder.RequestSpecBuilder;
 import io.restassured.builder.ResponseSpecBuilder;
 import io.restassured.filter.log.RequestLoggingFilter;
 import io.restassured.filter.log.ResponseLoggingFilter;
 import io.restassured.specification.RequestSpecification;
 import io.restassured.specification.ResponseSpecification;
+import static org.hamcrest.Matchers.*;
 
 public class RSAPIConfig {
 	
@@ -30,7 +36,25 @@ public class RSAPIConfig {
 		
 		responseSpecification = new ResponseSpecBuilder()
 								.expectStatusCode(200)
+								.expectResponseTime(lessThan(8000L), TimeUnit.MILLISECONDS)
 								.build();
+		
+		
+		RestAssured.requestSpecification = requestSpecification;
+		RestAssured.responseSpecification = responseSpecification;
+				
+	}
+	
+	
+	@AfterMethod
+	public void tearDown() {
+		
+		requestSpecification = null;
+		
+		responseSpecification = null;
+		
+		RestAssured.requestSpecification = requestSpecification;
+		RestAssured.responseSpecification = responseSpecification;
 				
 	}
 

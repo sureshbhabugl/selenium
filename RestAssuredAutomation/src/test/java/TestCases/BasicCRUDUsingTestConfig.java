@@ -1,6 +1,7 @@
 package TestCases;
 
 import org.testng.annotations.Test;
+import org.testng.annotations.Test;
 
 import static io.restassured.RestAssured.*;
 

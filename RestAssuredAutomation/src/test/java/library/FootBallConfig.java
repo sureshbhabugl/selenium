@@ -1,5 +1,7 @@
 package library;
 
+import java.util.concurrent.TimeUnit;
+
 import org.testng.annotations.BeforeMethod;
 
 import io.restassured.RestAssured;
@@ -9,6 +11,8 @@ import io.restassured.filter.log.RequestLoggingFilter;
 import io.restassured.filter.log.ResponseLoggingFilter;
 import io.restassured.specification.RequestSpecification;
 import io.restassured.specification.ResponseSpecification;
+
+import static org.hamcrest.Matchers.*;
 
 public class FootBallConfig {
 	
@@ -32,6 +36,7 @@ public class FootBallConfig {
 		
 		responseSpecification = new ResponseSpecBuilder()
 								.expectStatusCode(200)
+								.expectResponseTime(lessThan(1000L),TimeUnit.MILLISECONDS)
 								.build();
 		
 		RestAssured.requestSpecification = requestSpecification;
