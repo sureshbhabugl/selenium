@@ -5182,3 +5182,747 @@ org.osgi.framework.BundleException: Could not resolve module: org.eclipse.mylyn.
 !MESSAGE Unexpected error while loading repository template extensions
 !SUBENTRY 1 org.eclipse.mylyn.tasks.core 4 0 2020-04-22 13:35:10.714
 !MESSAGE Could not load repository template extension contributed by 'org.eclipse.mylyn.bugzilla.ide' with connectorKind 'bugzilla'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 13:40:01.907
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 13:40:01.913
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 13:40:08.330
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 13:40:08.337
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 13:40:08.400
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 13:40:08.402
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 13:40:31.135
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 13:40:31.138
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 13:41:41.705
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 13:41:41.707
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 13:41:43.958
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 13:41:43.960
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 13:43:04.105
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 13:43:04.108
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 13:43:22.556
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 13:43:22.560
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 13:43:30.403
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 13:43:30.405
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 13:43:38.406
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 13:43:38.408
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 13:43:49.239
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 13:43:49.241
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 13:44:07.320
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 13:44:07.321
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 13:44:14.728
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 13:44:14.729
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 13:44:25.894
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 13:44:25.896
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 13:44:28.310
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 13:44:28.311
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 13:44:41.235
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 13:44:41.238
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 13:44:56.152
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 13:44:56.154
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 13:45:15.541
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 13:45:15.542
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 13:45:19.712
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 13:45:19.714
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 13:46:09.881
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 13:46:09.883
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 13:47:52.214
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 13:47:52.216
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 13:48:03.423
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 13:48:03.426
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 14:38:09.336
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 14:38:09.339
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 14:38:25.052
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 14:38:25.054
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 14:38:32.502
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 14:38:32.504
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 14:39:16.558
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 14:39:16.560
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 14:39:57.097
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 14:39:57.099
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 14:41:26.574
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 14:41:26.576
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 14:41:32.295
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 14:41:32.296
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.testng.eclipse 1 0 2020-04-22 14:41:38.576
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar /Users/suresh/eclipse-workspace/RestAssuredAutomation/target/test-classes /Users/suresh/eclipse-workspace/RestAssuredAutomation/target/classes /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar /Users/suresh/.m2/repository/io/rest-assured/rest-assured/4.3.0/rest-assured-4.3.0.jar /Users/suresh/.m2/repository/org/codehaus/groovy/groovy/3.0.2/groovy-3.0.2.jar /Users/suresh/.m2/repository/org/codehaus/groovy/groovy-xml/3.0.2/groovy-xml-3.0.2.jar /Users/suresh/.m2/repository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar /Users/suresh/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar /Users/suresh/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar /Users/suresh/.m2/repository/commons-codec/commons-codec/1.9/commons-codec-1.9.jar /Users/suresh/.m2/repository/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3.jar /Users/suresh/.m2/repository/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar /Users/suresh/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar /Users/suresh/.m2/repository/io/rest-assured/json-path/4.3.0/json-path-4.3.0.jar /Users/suresh/.m2/repository/org/codehaus/groovy/groovy-json/3.0.2/groovy-json-3.0.2.jar /Users/suresh/.m2/repository/io/rest-assured/rest-assured-common/4.3.0/rest-assured-common-4.3.0.jar /Users/suresh/.m2/repository/io/rest-assured/xml-path/4.3.0/xml-path-4.3.0.jar /Users/suresh/.m2/repository/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar /Users/suresh/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.2/jakarta.xml.bind-api-2.3.2.jar /Users/suresh/.m2/repository/jakarta/activation/jakarta.activation-api/1.2.1/jakarta.activation-api-1.2.1.jar /Users/suresh/.m2/repository/com/sun/xml/bind/jaxb-osgi/2.3.0.1/jaxb-osgi-2.3.0.1.jar /Users/suresh/.m2/repository/org/apache/sling/org.apache.sling.javax.activation/0.1.0/org.apache.sling.javax.activation-0.1.0.jar /Users/suresh/.m2/repository/javax/activation/activation/1.1.1/activation-1.1.1.jar /Users/suresh/.m2/repository/org/testng/testng/7.1.0/testng-7.1.0.jar /Users/suresh/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar /Users/suresh/.m2/repository/com/google/inject/guice/4.1.0/guice-4.1.0-no_aop.jar /Users/suresh/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar /Users/suresh/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar /Users/suresh/.m2/repository/com/google/guava/guava/19.0/guava-19.0.jar /Users/suresh/.m2/repository/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 50676 -protocol json -d /Users/suresh/eclipse-workspace/RestAssuredAutomation/test-output /var/folders/j2/nd01tqbs2ts83d5tll5g3n5m0000gn/T/testng-eclipse-892225062/testng-customsuite.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar:/Users/suresh/eclipse-workspace/RestAssuredAutomation/target/test-classes:/Users/suresh/eclipse-workspace/RestAssuredAutomation/target/classes:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar:/Users/suresh/.m2/repository/io/rest-assured/rest-assured/4.3.0/rest-assured-4.3.0.jar:/Users/suresh/.m2/repository/org/codehaus/groovy/groovy/3.0.2/groovy-3.0.2.jar:/Users/suresh/.m2/repository/org/codehaus/groovy/groovy-xml/3.0.2/groovy-xml-3.0.2.jar:/Users/suresh/.m2/repository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar:/Users/suresh/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar:/Users/suresh/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/suresh/.m2/repository/commons-codec/commons-codec/1.9/commons-codec-1.9.jar:/Users/suresh/.m2/repository/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3.jar:/Users/suresh/.m2/repository/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar:/Users/suresh/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar:/Users/suresh/.m2/repository/io/rest-assured/json-path/4.3.0/json-path-4.3.0.jar:/Users/suresh/.m2/repository/org/codehaus/groovy/groovy-json/3.0.2/groovy-json-3.0.2.jar:/Users/suresh/.m2/repository/io/rest-assured/rest-assured-common/4.3.0/rest-assured-common-4.3.0.jar:/Users/suresh/.m2/repository/io/rest-assured/xml-path/4.3.0/xml-path-4.3.0.jar:/Users/suresh/.m2/repository/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar:/Users/suresh/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.2/jakarta.xml.bind-api-2.3.2.jar:/Users/suresh/.m2/repository/jakarta/activation/jakarta.activation-api/1.2.1/jakarta.activation-api-1.2.1.jar:/Users/suresh/.m2/repository/com/sun/xml/bind/jaxb-osgi/2.3.0.1/jaxb-osgi-2.3.0.1.jar:/Users/suresh/.m2/repository/org/apache/sling/org.apache.sling.javax.activation/0.1.0/org.apache.sling.javax.activation-0.1.0.jar:/Users/suresh/.m2/repository/javax/activation/activation/1.1.1/activation-1.1.1.jar:/Users/suresh/.m2/repository/org/testng/testng/7.1.0/testng-7.1.0.jar:/Users/suresh/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar:/Users/suresh/.m2/repository/com/google/inject/guice/4.1.0/guice-4.1.0-no_aop.jar:/Users/suresh/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar:/Users/suresh/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar:/Users/suresh/.m2/repository/com/google/guava/guava/19.0/guava-19.0.jar:/Users/suresh/.m2/repository/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar org.testng.remote.RemoteTestNG -serport 50676 -protocol json -d /Users/suresh/eclipse-workspace/RestAssuredAutomation/test-output /var/folders/j2/nd01tqbs2ts83d5tll5g3n5m0000gn/T/testng-eclipse-892225062/testng-customsuite.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 14:42:15.051
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 14:42:15.052
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 14:42:25.663
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 14:42:25.664
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 14:42:28.750
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 14:42:28.754
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.testng.eclipse 1 0 2020-04-22 14:42:34.328
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar /Users/suresh/eclipse-workspace/RestAssuredAutomation/target/test-classes /Users/suresh/eclipse-workspace/RestAssuredAutomation/target/classes /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar /Users/suresh/.m2/repository/io/rest-assured/rest-assured/4.3.0/rest-assured-4.3.0.jar /Users/suresh/.m2/repository/org/codehaus/groovy/groovy/3.0.2/groovy-3.0.2.jar /Users/suresh/.m2/repository/org/codehaus/groovy/groovy-xml/3.0.2/groovy-xml-3.0.2.jar /Users/suresh/.m2/repository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar /Users/suresh/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar /Users/suresh/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar /Users/suresh/.m2/repository/commons-codec/commons-codec/1.9/commons-codec-1.9.jar /Users/suresh/.m2/repository/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3.jar /Users/suresh/.m2/repository/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar /Users/suresh/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar /Users/suresh/.m2/repository/io/rest-assured/json-path/4.3.0/json-path-4.3.0.jar /Users/suresh/.m2/repository/org/codehaus/groovy/groovy-json/3.0.2/groovy-json-3.0.2.jar /Users/suresh/.m2/repository/io/rest-assured/rest-assured-common/4.3.0/rest-assured-common-4.3.0.jar /Users/suresh/.m2/repository/io/rest-assured/xml-path/4.3.0/xml-path-4.3.0.jar /Users/suresh/.m2/repository/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar /Users/suresh/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.2/jakarta.xml.bind-api-2.3.2.jar /Users/suresh/.m2/repository/jakarta/activation/jakarta.activation-api/1.2.1/jakarta.activation-api-1.2.1.jar /Users/suresh/.m2/repository/com/sun/xml/bind/jaxb-osgi/2.3.0.1/jaxb-osgi-2.3.0.1.jar /Users/suresh/.m2/repository/org/apache/sling/org.apache.sling.javax.activation/0.1.0/org.apache.sling.javax.activation-0.1.0.jar /Users/suresh/.m2/repository/javax/activation/activation/1.1.1/activation-1.1.1.jar /Users/suresh/.m2/repository/org/testng/testng/7.1.0/testng-7.1.0.jar /Users/suresh/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar /Users/suresh/.m2/repository/com/google/inject/guice/4.1.0/guice-4.1.0-no_aop.jar /Users/suresh/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar /Users/suresh/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar /Users/suresh/.m2/repository/com/google/guava/guava/19.0/guava-19.0.jar /Users/suresh/.m2/repository/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 50682 -protocol json -d /Users/suresh/eclipse-workspace/RestAssuredAutomation/test-output /var/folders/j2/nd01tqbs2ts83d5tll5g3n5m0000gn/T/testng-eclipse--667855107/testng-customsuite.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar:/Users/suresh/eclipse-workspace/RestAssuredAutomation/target/test-classes:/Users/suresh/eclipse-workspace/RestAssuredAutomation/target/classes:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar:/Users/suresh/.m2/repository/io/rest-assured/rest-assured/4.3.0/rest-assured-4.3.0.jar:/Users/suresh/.m2/repository/org/codehaus/groovy/groovy/3.0.2/groovy-3.0.2.jar:/Users/suresh/.m2/repository/org/codehaus/groovy/groovy-xml/3.0.2/groovy-xml-3.0.2.jar:/Users/suresh/.m2/repository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar:/Users/suresh/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar:/Users/suresh/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/suresh/.m2/repository/commons-codec/commons-codec/1.9/commons-codec-1.9.jar:/Users/suresh/.m2/repository/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3.jar:/Users/suresh/.m2/repository/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar:/Users/suresh/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar:/Users/suresh/.m2/repository/io/rest-assured/json-path/4.3.0/json-path-4.3.0.jar:/Users/suresh/.m2/repository/org/codehaus/groovy/groovy-json/3.0.2/groovy-json-3.0.2.jar:/Users/suresh/.m2/repository/io/rest-assured/rest-assured-common/4.3.0/rest-assured-common-4.3.0.jar:/Users/suresh/.m2/repository/io/rest-assured/xml-path/4.3.0/xml-path-4.3.0.jar:/Users/suresh/.m2/repository/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar:/Users/suresh/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.2/jakarta.xml.bind-api-2.3.2.jar:/Users/suresh/.m2/repository/jakarta/activation/jakarta.activation-api/1.2.1/jakarta.activation-api-1.2.1.jar:/Users/suresh/.m2/repository/com/sun/xml/bind/jaxb-osgi/2.3.0.1/jaxb-osgi-2.3.0.1.jar:/Users/suresh/.m2/repository/org/apache/sling/org.apache.sling.javax.activation/0.1.0/org.apache.sling.javax.activation-0.1.0.jar:/Users/suresh/.m2/repository/javax/activation/activation/1.1.1/activation-1.1.1.jar:/Users/suresh/.m2/repository/org/testng/testng/7.1.0/testng-7.1.0.jar:/Users/suresh/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar:/Users/suresh/.m2/repository/com/google/inject/guice/4.1.0/guice-4.1.0-no_aop.jar:/Users/suresh/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar:/Users/suresh/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar:/Users/suresh/.m2/repository/com/google/guava/guava/19.0/guava-19.0.jar:/Users/suresh/.m2/repository/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar org.testng.remote.RemoteTestNG -serport 50682 -protocol json -d /Users/suresh/eclipse-workspace/RestAssuredAutomation/test-output /var/folders/j2/nd01tqbs2ts83d5tll5g3n5m0000gn/T/testng-eclipse--667855107/testng-customsuite.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 14:46:33.196
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 14:46:33.198
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.testng.eclipse 1 0 2020-04-22 14:46:39.539
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar /Users/suresh/eclipse-workspace/RestAssuredAutomation/target/test-classes /Users/suresh/eclipse-workspace/RestAssuredAutomation/target/classes /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar /Users/suresh/.m2/repository/io/rest-assured/rest-assured/4.3.0/rest-assured-4.3.0.jar /Users/suresh/.m2/repository/org/codehaus/groovy/groovy/3.0.2/groovy-3.0.2.jar /Users/suresh/.m2/repository/org/codehaus/groovy/groovy-xml/3.0.2/groovy-xml-3.0.2.jar /Users/suresh/.m2/repository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar /Users/suresh/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar /Users/suresh/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar /Users/suresh/.m2/repository/commons-codec/commons-codec/1.9/commons-codec-1.9.jar /Users/suresh/.m2/repository/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3.jar /Users/suresh/.m2/repository/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar /Users/suresh/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar /Users/suresh/.m2/repository/io/rest-assured/json-path/4.3.0/json-path-4.3.0.jar /Users/suresh/.m2/repository/org/codehaus/groovy/groovy-json/3.0.2/groovy-json-3.0.2.jar /Users/suresh/.m2/repository/io/rest-assured/rest-assured-common/4.3.0/rest-assured-common-4.3.0.jar /Users/suresh/.m2/repository/io/rest-assured/xml-path/4.3.0/xml-path-4.3.0.jar /Users/suresh/.m2/repository/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar /Users/suresh/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.2/jakarta.xml.bind-api-2.3.2.jar /Users/suresh/.m2/repository/jakarta/activation/jakarta.activation-api/1.2.1/jakarta.activation-api-1.2.1.jar /Users/suresh/.m2/repository/com/sun/xml/bind/jaxb-osgi/2.3.0.1/jaxb-osgi-2.3.0.1.jar /Users/suresh/.m2/repository/org/apache/sling/org.apache.sling.javax.activation/0.1.0/org.apache.sling.javax.activation-0.1.0.jar /Users/suresh/.m2/repository/javax/activation/activation/1.1.1/activation-1.1.1.jar /Users/suresh/.m2/repository/org/testng/testng/7.1.0/testng-7.1.0.jar /Users/suresh/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar /Users/suresh/.m2/repository/com/google/inject/guice/4.1.0/guice-4.1.0-no_aop.jar /Users/suresh/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar /Users/suresh/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar /Users/suresh/.m2/repository/com/google/guava/guava/19.0/guava-19.0.jar /Users/suresh/.m2/repository/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 50757 -protocol json -d /Users/suresh/eclipse-workspace/RestAssuredAutomation/test-output /var/folders/j2/nd01tqbs2ts83d5tll5g3n5m0000gn/T/testng-eclipse--523237138/testng-customsuite.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar:/Users/suresh/eclipse-workspace/RestAssuredAutomation/target/test-classes:/Users/suresh/eclipse-workspace/RestAssuredAutomation/target/classes:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar:/Users/suresh/.m2/repository/io/rest-assured/rest-assured/4.3.0/rest-assured-4.3.0.jar:/Users/suresh/.m2/repository/org/codehaus/groovy/groovy/3.0.2/groovy-3.0.2.jar:/Users/suresh/.m2/repository/org/codehaus/groovy/groovy-xml/3.0.2/groovy-xml-3.0.2.jar:/Users/suresh/.m2/repository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar:/Users/suresh/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar:/Users/suresh/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/suresh/.m2/repository/commons-codec/commons-codec/1.9/commons-codec-1.9.jar:/Users/suresh/.m2/repository/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3.jar:/Users/suresh/.m2/repository/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar:/Users/suresh/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar:/Users/suresh/.m2/repository/io/rest-assured/json-path/4.3.0/json-path-4.3.0.jar:/Users/suresh/.m2/repository/org/codehaus/groovy/groovy-json/3.0.2/groovy-json-3.0.2.jar:/Users/suresh/.m2/repository/io/rest-assured/rest-assured-common/4.3.0/rest-assured-common-4.3.0.jar:/Users/suresh/.m2/repository/io/rest-assured/xml-path/4.3.0/xml-path-4.3.0.jar:/Users/suresh/.m2/repository/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar:/Users/suresh/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.2/jakarta.xml.bind-api-2.3.2.jar:/Users/suresh/.m2/repository/jakarta/activation/jakarta.activation-api/1.2.1/jakarta.activation-api-1.2.1.jar:/Users/suresh/.m2/repository/com/sun/xml/bind/jaxb-osgi/2.3.0.1/jaxb-osgi-2.3.0.1.jar:/Users/suresh/.m2/repository/org/apache/sling/org.apache.sling.javax.activation/0.1.0/org.apache.sling.javax.activation-0.1.0.jar:/Users/suresh/.m2/repository/javax/activation/activation/1.1.1/activation-1.1.1.jar:/Users/suresh/.m2/repository/org/testng/testng/7.1.0/testng-7.1.0.jar:/Users/suresh/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar:/Users/suresh/.m2/repository/com/google/inject/guice/4.1.0/guice-4.1.0-no_aop.jar:/Users/suresh/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar:/Users/suresh/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar:/Users/suresh/.m2/repository/com/google/guava/guava/19.0/guava-19.0.jar:/Users/suresh/.m2/repository/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar org.testng.remote.RemoteTestNG -serport 50757 -protocol json -d /Users/suresh/eclipse-workspace/RestAssuredAutomation/test-output /var/folders/j2/nd01tqbs2ts83d5tll5g3n5m0000gn/T/testng-eclipse--523237138/testng-customsuite.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 14:51:13.775
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 14:51:13.777
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 14:51:51.949
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 14:51:51.950
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.testng.eclipse 1 0 2020-04-22 14:51:52.039
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar /Users/suresh/eclipse-workspace/RestAssuredAutomation/target/test-classes /Users/suresh/eclipse-workspace/RestAssuredAutomation/target/classes /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar /Users/suresh/.m2/repository/io/rest-assured/rest-assured/4.3.0/rest-assured-4.3.0.jar /Users/suresh/.m2/repository/org/codehaus/groovy/groovy/3.0.2/groovy-3.0.2.jar /Users/suresh/.m2/repository/org/codehaus/groovy/groovy-xml/3.0.2/groovy-xml-3.0.2.jar /Users/suresh/.m2/repository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar /Users/suresh/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar /Users/suresh/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar /Users/suresh/.m2/repository/commons-codec/commons-codec/1.9/commons-codec-1.9.jar /Users/suresh/.m2/repository/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3.jar /Users/suresh/.m2/repository/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar /Users/suresh/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar /Users/suresh/.m2/repository/io/rest-assured/json-path/4.3.0/json-path-4.3.0.jar /Users/suresh/.m2/repository/org/codehaus/groovy/groovy-json/3.0.2/groovy-json-3.0.2.jar /Users/suresh/.m2/repository/io/rest-assured/rest-assured-common/4.3.0/rest-assured-common-4.3.0.jar /Users/suresh/.m2/repository/io/rest-assured/xml-path/4.3.0/xml-path-4.3.0.jar /Users/suresh/.m2/repository/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar /Users/suresh/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.2/jakarta.xml.bind-api-2.3.2.jar /Users/suresh/.m2/repository/jakarta/activation/jakarta.activation-api/1.2.1/jakarta.activation-api-1.2.1.jar /Users/suresh/.m2/repository/com/sun/xml/bind/jaxb-osgi/2.3.0.1/jaxb-osgi-2.3.0.1.jar /Users/suresh/.m2/repository/org/apache/sling/org.apache.sling.javax.activation/0.1.0/org.apache.sling.javax.activation-0.1.0.jar /Users/suresh/.m2/repository/javax/activation/activation/1.1.1/activation-1.1.1.jar /Users/suresh/.m2/repository/org/testng/testng/7.1.0/testng-7.1.0.jar /Users/suresh/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar /Users/suresh/.m2/repository/com/google/inject/guice/4.1.0/guice-4.1.0-no_aop.jar /Users/suresh/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar /Users/suresh/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar /Users/suresh/.m2/repository/com/google/guava/guava/19.0/guava-19.0.jar /Users/suresh/.m2/repository/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 51064 -protocol json -d /Users/suresh/eclipse-workspace/RestAssuredAutomation/test-output /var/folders/j2/nd01tqbs2ts83d5tll5g3n5m0000gn/T/testng-eclipse-69906104/testng-customsuite.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar:/Users/suresh/eclipse-workspace/RestAssuredAutomation/target/test-classes:/Users/suresh/eclipse-workspace/RestAssuredAutomation/target/classes:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar:/Users/suresh/.m2/repository/io/rest-assured/rest-assured/4.3.0/rest-assured-4.3.0.jar:/Users/suresh/.m2/repository/org/codehaus/groovy/groovy/3.0.2/groovy-3.0.2.jar:/Users/suresh/.m2/repository/org/codehaus/groovy/groovy-xml/3.0.2/groovy-xml-3.0.2.jar:/Users/suresh/.m2/repository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar:/Users/suresh/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar:/Users/suresh/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/suresh/.m2/repository/commons-codec/commons-codec/1.9/commons-codec-1.9.jar:/Users/suresh/.m2/repository/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3.jar:/Users/suresh/.m2/repository/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar:/Users/suresh/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar:/Users/suresh/.m2/repository/io/rest-assured/json-path/4.3.0/json-path-4.3.0.jar:/Users/suresh/.m2/repository/org/codehaus/groovy/groovy-json/3.0.2/groovy-json-3.0.2.jar:/Users/suresh/.m2/repository/io/rest-assured/rest-assured-common/4.3.0/rest-assured-common-4.3.0.jar:/Users/suresh/.m2/repository/io/rest-assured/xml-path/4.3.0/xml-path-4.3.0.jar:/Users/suresh/.m2/repository/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar:/Users/suresh/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.2/jakarta.xml.bind-api-2.3.2.jar:/Users/suresh/.m2/repository/jakarta/activation/jakarta.activation-api/1.2.1/jakarta.activation-api-1.2.1.jar:/Users/suresh/.m2/repository/com/sun/xml/bind/jaxb-osgi/2.3.0.1/jaxb-osgi-2.3.0.1.jar:/Users/suresh/.m2/repository/org/apache/sling/org.apache.sling.javax.activation/0.1.0/org.apache.sling.javax.activation-0.1.0.jar:/Users/suresh/.m2/repository/javax/activation/activation/1.1.1/activation-1.1.1.jar:/Users/suresh/.m2/repository/org/testng/testng/7.1.0/testng-7.1.0.jar:/Users/suresh/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar:/Users/suresh/.m2/repository/com/google/inject/guice/4.1.0/guice-4.1.0-no_aop.jar:/Users/suresh/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar:/Users/suresh/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar:/Users/suresh/.m2/repository/com/google/guava/guava/19.0/guava-19.0.jar:/Users/suresh/.m2/repository/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar org.testng.remote.RemoteTestNG -serport 51064 -protocol json -d /Users/suresh/eclipse-workspace/RestAssuredAutomation/test-output /var/folders/j2/nd01tqbs2ts83d5tll5g3n5m0000gn/T/testng-eclipse-69906104/testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2020-04-22 14:52:46.378
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar /Users/suresh/eclipse-workspace/RestAssuredAutomation/target/test-classes /Users/suresh/eclipse-workspace/RestAssuredAutomation/target/classes /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar /Users/suresh/.m2/repository/io/rest-assured/rest-assured/4.3.0/rest-assured-4.3.0.jar /Users/suresh/.m2/repository/org/codehaus/groovy/groovy/3.0.2/groovy-3.0.2.jar /Users/suresh/.m2/repository/org/codehaus/groovy/groovy-xml/3.0.2/groovy-xml-3.0.2.jar /Users/suresh/.m2/repository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar /Users/suresh/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar /Users/suresh/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar /Users/suresh/.m2/repository/commons-codec/commons-codec/1.9/commons-codec-1.9.jar /Users/suresh/.m2/repository/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3.jar /Users/suresh/.m2/repository/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar /Users/suresh/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar /Users/suresh/.m2/repository/io/rest-assured/json-path/4.3.0/json-path-4.3.0.jar /Users/suresh/.m2/repository/org/codehaus/groovy/groovy-json/3.0.2/groovy-json-3.0.2.jar /Users/suresh/.m2/repository/io/rest-assured/rest-assured-common/4.3.0/rest-assured-common-4.3.0.jar /Users/suresh/.m2/repository/io/rest-assured/xml-path/4.3.0/xml-path-4.3.0.jar /Users/suresh/.m2/repository/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar /Users/suresh/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.2/jakarta.xml.bind-api-2.3.2.jar /Users/suresh/.m2/repository/jakarta/activation/jakarta.activation-api/1.2.1/jakarta.activation-api-1.2.1.jar /Users/suresh/.m2/repository/com/sun/xml/bind/jaxb-osgi/2.3.0.1/jaxb-osgi-2.3.0.1.jar /Users/suresh/.m2/repository/org/apache/sling/org.apache.sling.javax.activation/0.1.0/org.apache.sling.javax.activation-0.1.0.jar /Users/suresh/.m2/repository/javax/activation/activation/1.1.1/activation-1.1.1.jar /Users/suresh/.m2/repository/org/testng/testng/7.1.0/testng-7.1.0.jar /Users/suresh/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar /Users/suresh/.m2/repository/com/google/inject/guice/4.1.0/guice-4.1.0-no_aop.jar /Users/suresh/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar /Users/suresh/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar /Users/suresh/.m2/repository/com/google/guava/guava/19.0/guava-19.0.jar /Users/suresh/.m2/repository/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 51116 -protocol json -d /Users/suresh/eclipse-workspace/RestAssuredAutomation/test-output /var/folders/j2/nd01tqbs2ts83d5tll5g3n5m0000gn/T/testng-eclipse--1360377413/testng-customsuite.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar:/Users/suresh/eclipse-workspace/RestAssuredAutomation/target/test-classes:/Users/suresh/eclipse-workspace/RestAssuredAutomation/target/classes:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar:/Users/suresh/.m2/repository/io/rest-assured/rest-assured/4.3.0/rest-assured-4.3.0.jar:/Users/suresh/.m2/repository/org/codehaus/groovy/groovy/3.0.2/groovy-3.0.2.jar:/Users/suresh/.m2/repository/org/codehaus/groovy/groovy-xml/3.0.2/groovy-xml-3.0.2.jar:/Users/suresh/.m2/repository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar:/Users/suresh/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar:/Users/suresh/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/suresh/.m2/repository/commons-codec/commons-codec/1.9/commons-codec-1.9.jar:/Users/suresh/.m2/repository/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3.jar:/Users/suresh/.m2/repository/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar:/Users/suresh/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar:/Users/suresh/.m2/repository/io/rest-assured/json-path/4.3.0/json-path-4.3.0.jar:/Users/suresh/.m2/repository/org/codehaus/groovy/groovy-json/3.0.2/groovy-json-3.0.2.jar:/Users/suresh/.m2/repository/io/rest-assured/rest-assured-common/4.3.0/rest-assured-common-4.3.0.jar:/Users/suresh/.m2/repository/io/rest-assured/xml-path/4.3.0/xml-path-4.3.0.jar:/Users/suresh/.m2/repository/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar:/Users/suresh/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.2/jakarta.xml.bind-api-2.3.2.jar:/Users/suresh/.m2/repository/jakarta/activation/jakarta.activation-api/1.2.1/jakarta.activation-api-1.2.1.jar:/Users/suresh/.m2/repository/com/sun/xml/bind/jaxb-osgi/2.3.0.1/jaxb-osgi-2.3.0.1.jar:/Users/suresh/.m2/repository/org/apache/sling/org.apache.sling.javax.activation/0.1.0/org.apache.sling.javax.activation-0.1.0.jar:/Users/suresh/.m2/repository/javax/activation/activation/1.1.1/activation-1.1.1.jar:/Users/suresh/.m2/repository/org/testng/testng/7.1.0/testng-7.1.0.jar:/Users/suresh/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar:/Users/suresh/.m2/repository/com/google/inject/guice/4.1.0/guice-4.1.0-no_aop.jar:/Users/suresh/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar:/Users/suresh/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar:/Users/suresh/.m2/repository/com/google/guava/guava/19.0/guava-19.0.jar:/Users/suresh/.m2/repository/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar org.testng.remote.RemoteTestNG -serport 51116 -protocol json -d /Users/suresh/eclipse-workspace/RestAssuredAutomation/test-output /var/folders/j2/nd01tqbs2ts83d5tll5g3n5m0000gn/T/testng-eclipse--1360377413/testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2020-04-22 14:53:03.403
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar /Users/suresh/eclipse-workspace/RestAssuredAutomation/target/test-classes /Users/suresh/eclipse-workspace/RestAssuredAutomation/target/classes /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar /Users/suresh/.m2/repository/io/rest-assured/rest-assured/4.3.0/rest-assured-4.3.0.jar /Users/suresh/.m2/repository/org/codehaus/groovy/groovy/3.0.2/groovy-3.0.2.jar /Users/suresh/.m2/repository/org/codehaus/groovy/groovy-xml/3.0.2/groovy-xml-3.0.2.jar /Users/suresh/.m2/repository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar /Users/suresh/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar /Users/suresh/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar /Users/suresh/.m2/repository/commons-codec/commons-codec/1.9/commons-codec-1.9.jar /Users/suresh/.m2/repository/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3.jar /Users/suresh/.m2/repository/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar /Users/suresh/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar /Users/suresh/.m2/repository/io/rest-assured/json-path/4.3.0/json-path-4.3.0.jar /Users/suresh/.m2/repository/org/codehaus/groovy/groovy-json/3.0.2/groovy-json-3.0.2.jar /Users/suresh/.m2/repository/io/rest-assured/rest-assured-common/4.3.0/rest-assured-common-4.3.0.jar /Users/suresh/.m2/repository/io/rest-assured/xml-path/4.3.0/xml-path-4.3.0.jar /Users/suresh/.m2/repository/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar /Users/suresh/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.2/jakarta.xml.bind-api-2.3.2.jar /Users/suresh/.m2/repository/jakarta/activation/jakarta.activation-api/1.2.1/jakarta.activation-api-1.2.1.jar /Users/suresh/.m2/repository/com/sun/xml/bind/jaxb-osgi/2.3.0.1/jaxb-osgi-2.3.0.1.jar /Users/suresh/.m2/repository/org/apache/sling/org.apache.sling.javax.activation/0.1.0/org.apache.sling.javax.activation-0.1.0.jar /Users/suresh/.m2/repository/javax/activation/activation/1.1.1/activation-1.1.1.jar /Users/suresh/.m2/repository/org/testng/testng/7.1.0/testng-7.1.0.jar /Users/suresh/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar /Users/suresh/.m2/repository/com/google/inject/guice/4.1.0/guice-4.1.0-no_aop.jar /Users/suresh/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar /Users/suresh/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar /Users/suresh/.m2/repository/com/google/guava/guava/19.0/guava-19.0.jar /Users/suresh/.m2/repository/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 51130 -protocol json -d /Users/suresh/eclipse-workspace/RestAssuredAutomation/test-output /var/folders/j2/nd01tqbs2ts83d5tll5g3n5m0000gn/T/testng-eclipse--51030933/testng-customsuite.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar:/Users/suresh/eclipse-workspace/RestAssuredAutomation/target/test-classes:/Users/suresh/eclipse-workspace/RestAssuredAutomation/target/classes:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar:/Users/suresh/.m2/repository/io/rest-assured/rest-assured/4.3.0/rest-assured-4.3.0.jar:/Users/suresh/.m2/repository/org/codehaus/groovy/groovy/3.0.2/groovy-3.0.2.jar:/Users/suresh/.m2/repository/org/codehaus/groovy/groovy-xml/3.0.2/groovy-xml-3.0.2.jar:/Users/suresh/.m2/repository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar:/Users/suresh/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar:/Users/suresh/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/suresh/.m2/repository/commons-codec/commons-codec/1.9/commons-codec-1.9.jar:/Users/suresh/.m2/repository/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3.jar:/Users/suresh/.m2/repository/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar:/Users/suresh/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar:/Users/suresh/.m2/repository/io/rest-assured/json-path/4.3.0/json-path-4.3.0.jar:/Users/suresh/.m2/repository/org/codehaus/groovy/groovy-json/3.0.2/groovy-json-3.0.2.jar:/Users/suresh/.m2/repository/io/rest-assured/rest-assured-common/4.3.0/rest-assured-common-4.3.0.jar:/Users/suresh/.m2/repository/io/rest-assured/xml-path/4.3.0/xml-path-4.3.0.jar:/Users/suresh/.m2/repository/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar:/Users/suresh/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.2/jakarta.xml.bind-api-2.3.2.jar:/Users/suresh/.m2/repository/jakarta/activation/jakarta.activation-api/1.2.1/jakarta.activation-api-1.2.1.jar:/Users/suresh/.m2/repository/com/sun/xml/bind/jaxb-osgi/2.3.0.1/jaxb-osgi-2.3.0.1.jar:/Users/suresh/.m2/repository/org/apache/sling/org.apache.sling.javax.activation/0.1.0/org.apache.sling.javax.activation-0.1.0.jar:/Users/suresh/.m2/repository/javax/activation/activation/1.1.1/activation-1.1.1.jar:/Users/suresh/.m2/repository/org/testng/testng/7.1.0/testng-7.1.0.jar:/Users/suresh/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar:/Users/suresh/.m2/repository/com/google/inject/guice/4.1.0/guice-4.1.0-no_aop.jar:/Users/suresh/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar:/Users/suresh/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar:/Users/suresh/.m2/repository/com/google/guava/guava/19.0/guava-19.0.jar:/Users/suresh/.m2/repository/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar org.testng.remote.RemoteTestNG -serport 51130 -protocol json -d /Users/suresh/eclipse-workspace/RestAssuredAutomation/test-output /var/folders/j2/nd01tqbs2ts83d5tll5g3n5m0000gn/T/testng-eclipse--51030933/testng-customsuite.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 14:55:00.145
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 14:55:00.147
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 14:55:10.815
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 14:55:10.817
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 14:55:12.439
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 14:55:12.440
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 14:55:25.841
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 14:55:25.843
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 14:55:44.103
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 14:55:44.105
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 14:56:23.798
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 14:56:23.799
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 14:57:54.871
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 14:57:54.872
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:01:08.206
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:01:08.208
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:01:28.562
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:01:28.564
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:01:51.961
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:01:51.962
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:02:01.285
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:02:01.286
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:02:04.348
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:02:04.350
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:02:05.934
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:02:05.936
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.testng.eclipse 1 0 2020-04-22 15:02:13.170
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar /Users/suresh/eclipse-workspace/RestAssuredAutomation/target/test-classes /Users/suresh/eclipse-workspace/RestAssuredAutomation/target/classes /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar /Users/suresh/.m2/repository/io/rest-assured/rest-assured/4.3.0/rest-assured-4.3.0.jar /Users/suresh/.m2/repository/org/codehaus/groovy/groovy/3.0.2/groovy-3.0.2.jar /Users/suresh/.m2/repository/org/codehaus/groovy/groovy-xml/3.0.2/groovy-xml-3.0.2.jar /Users/suresh/.m2/repository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar /Users/suresh/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar /Users/suresh/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar /Users/suresh/.m2/repository/commons-codec/commons-codec/1.9/commons-codec-1.9.jar /Users/suresh/.m2/repository/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3.jar /Users/suresh/.m2/repository/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar /Users/suresh/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar /Users/suresh/.m2/repository/io/rest-assured/json-path/4.3.0/json-path-4.3.0.jar /Users/suresh/.m2/repository/org/codehaus/groovy/groovy-json/3.0.2/groovy-json-3.0.2.jar /Users/suresh/.m2/repository/io/rest-assured/rest-assured-common/4.3.0/rest-assured-common-4.3.0.jar /Users/suresh/.m2/repository/io/rest-assured/xml-path/4.3.0/xml-path-4.3.0.jar /Users/suresh/.m2/repository/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar /Users/suresh/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.2/jakarta.xml.bind-api-2.3.2.jar /Users/suresh/.m2/repository/jakarta/activation/jakarta.activation-api/1.2.1/jakarta.activation-api-1.2.1.jar /Users/suresh/.m2/repository/com/sun/xml/bind/jaxb-osgi/2.3.0.1/jaxb-osgi-2.3.0.1.jar /Users/suresh/.m2/repository/org/apache/sling/org.apache.sling.javax.activation/0.1.0/org.apache.sling.javax.activation-0.1.0.jar /Users/suresh/.m2/repository/javax/activation/activation/1.1.1/activation-1.1.1.jar /Users/suresh/.m2/repository/org/testng/testng/7.1.0/testng-7.1.0.jar /Users/suresh/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar /Users/suresh/.m2/repository/com/google/inject/guice/4.1.0/guice-4.1.0-no_aop.jar /Users/suresh/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar /Users/suresh/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar /Users/suresh/.m2/repository/com/google/guava/guava/19.0/guava-19.0.jar /Users/suresh/.m2/repository/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 51320 -protocol json -d /Users/suresh/eclipse-workspace/RestAssuredAutomation/test-output /var/folders/j2/nd01tqbs2ts83d5tll5g3n5m0000gn/T/testng-eclipse--247083783/testng-customsuite.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar:/Users/suresh/eclipse-workspace/RestAssuredAutomation/target/test-classes:/Users/suresh/eclipse-workspace/RestAssuredAutomation/target/classes:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar:/Users/suresh/.m2/repository/io/rest-assured/rest-assured/4.3.0/rest-assured-4.3.0.jar:/Users/suresh/.m2/repository/org/codehaus/groovy/groovy/3.0.2/groovy-3.0.2.jar:/Users/suresh/.m2/repository/org/codehaus/groovy/groovy-xml/3.0.2/groovy-xml-3.0.2.jar:/Users/suresh/.m2/repository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar:/Users/suresh/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar:/Users/suresh/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/suresh/.m2/repository/commons-codec/commons-codec/1.9/commons-codec-1.9.jar:/Users/suresh/.m2/repository/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3.jar:/Users/suresh/.m2/repository/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar:/Users/suresh/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar:/Users/suresh/.m2/repository/io/rest-assured/json-path/4.3.0/json-path-4.3.0.jar:/Users/suresh/.m2/repository/org/codehaus/groovy/groovy-json/3.0.2/groovy-json-3.0.2.jar:/Users/suresh/.m2/repository/io/rest-assured/rest-assured-common/4.3.0/rest-assured-common-4.3.0.jar:/Users/suresh/.m2/repository/io/rest-assured/xml-path/4.3.0/xml-path-4.3.0.jar:/Users/suresh/.m2/repository/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar:/Users/suresh/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.2/jakarta.xml.bind-api-2.3.2.jar:/Users/suresh/.m2/repository/jakarta/activation/jakarta.activation-api/1.2.1/jakarta.activation-api-1.2.1.jar:/Users/suresh/.m2/repository/com/sun/xml/bind/jaxb-osgi/2.3.0.1/jaxb-osgi-2.3.0.1.jar:/Users/suresh/.m2/repository/org/apache/sling/org.apache.sling.javax.activation/0.1.0/org.apache.sling.javax.activation-0.1.0.jar:/Users/suresh/.m2/repository/javax/activation/activation/1.1.1/activation-1.1.1.jar:/Users/suresh/.m2/repository/org/testng/testng/7.1.0/testng-7.1.0.jar:/Users/suresh/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar:/Users/suresh/.m2/repository/com/google/inject/guice/4.1.0/guice-4.1.0-no_aop.jar:/Users/suresh/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar:/Users/suresh/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar:/Users/suresh/.m2/repository/com/google/guava/guava/19.0/guava-19.0.jar:/Users/suresh/.m2/repository/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar org.testng.remote.RemoteTestNG -serport 51320 -protocol json -d /Users/suresh/eclipse-workspace/RestAssuredAutomation/test-output /var/folders/j2/nd01tqbs2ts83d5tll5g3n5m0000gn/T/testng-eclipse--247083783/testng-customsuite.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:03:46.544
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:03:46.545
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:03:51.909
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:03:51.911
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:04:08.488
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:04:08.489
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.testng.eclipse 1 0 2020-04-22 15:04:17.033
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar /Users/suresh/eclipse-workspace/RestAssuredAutomation/target/test-classes /Users/suresh/eclipse-workspace/RestAssuredAutomation/target/classes /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar /Users/suresh/.m2/repository/io/rest-assured/rest-assured/4.3.0/rest-assured-4.3.0.jar /Users/suresh/.m2/repository/org/codehaus/groovy/groovy/3.0.2/groovy-3.0.2.jar /Users/suresh/.m2/repository/org/codehaus/groovy/groovy-xml/3.0.2/groovy-xml-3.0.2.jar /Users/suresh/.m2/repository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar /Users/suresh/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar /Users/suresh/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar /Users/suresh/.m2/repository/commons-codec/commons-codec/1.9/commons-codec-1.9.jar /Users/suresh/.m2/repository/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3.jar /Users/suresh/.m2/repository/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar /Users/suresh/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar /Users/suresh/.m2/repository/io/rest-assured/json-path/4.3.0/json-path-4.3.0.jar /Users/suresh/.m2/repository/org/codehaus/groovy/groovy-json/3.0.2/groovy-json-3.0.2.jar /Users/suresh/.m2/repository/io/rest-assured/rest-assured-common/4.3.0/rest-assured-common-4.3.0.jar /Users/suresh/.m2/repository/io/rest-assured/xml-path/4.3.0/xml-path-4.3.0.jar /Users/suresh/.m2/repository/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar /Users/suresh/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.2/jakarta.xml.bind-api-2.3.2.jar /Users/suresh/.m2/repository/jakarta/activation/jakarta.activation-api/1.2.1/jakarta.activation-api-1.2.1.jar /Users/suresh/.m2/repository/com/sun/xml/bind/jaxb-osgi/2.3.0.1/jaxb-osgi-2.3.0.1.jar /Users/suresh/.m2/repository/org/apache/sling/org.apache.sling.javax.activation/0.1.0/org.apache.sling.javax.activation-0.1.0.jar /Users/suresh/.m2/repository/javax/activation/activation/1.1.1/activation-1.1.1.jar /Users/suresh/.m2/repository/org/testng/testng/7.1.0/testng-7.1.0.jar /Users/suresh/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar /Users/suresh/.m2/repository/com/google/inject/guice/4.1.0/guice-4.1.0-no_aop.jar /Users/suresh/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar /Users/suresh/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar /Users/suresh/.m2/repository/com/google/guava/guava/19.0/guava-19.0.jar /Users/suresh/.m2/repository/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 51347 -protocol json -d /Users/suresh/eclipse-workspace/RestAssuredAutomation/test-output /var/folders/j2/nd01tqbs2ts83d5tll5g3n5m0000gn/T/testng-eclipse-1316736606/testng-customsuite.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar:/Users/suresh/eclipse-workspace/RestAssuredAutomation/target/test-classes:/Users/suresh/eclipse-workspace/RestAssuredAutomation/target/classes:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar:/Users/suresh/.m2/repository/io/rest-assured/rest-assured/4.3.0/rest-assured-4.3.0.jar:/Users/suresh/.m2/repository/org/codehaus/groovy/groovy/3.0.2/groovy-3.0.2.jar:/Users/suresh/.m2/repository/org/codehaus/groovy/groovy-xml/3.0.2/groovy-xml-3.0.2.jar:/Users/suresh/.m2/repository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar:/Users/suresh/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar:/Users/suresh/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/suresh/.m2/repository/commons-codec/commons-codec/1.9/commons-codec-1.9.jar:/Users/suresh/.m2/repository/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3.jar:/Users/suresh/.m2/repository/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar:/Users/suresh/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar:/Users/suresh/.m2/repository/io/rest-assured/json-path/4.3.0/json-path-4.3.0.jar:/Users/suresh/.m2/repository/org/codehaus/groovy/groovy-json/3.0.2/groovy-json-3.0.2.jar:/Users/suresh/.m2/repository/io/rest-assured/rest-assured-common/4.3.0/rest-assured-common-4.3.0.jar:/Users/suresh/.m2/repository/io/rest-assured/xml-path/4.3.0/xml-path-4.3.0.jar:/Users/suresh/.m2/repository/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar:/Users/suresh/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.2/jakarta.xml.bind-api-2.3.2.jar:/Users/suresh/.m2/repository/jakarta/activation/jakarta.activation-api/1.2.1/jakarta.activation-api-1.2.1.jar:/Users/suresh/.m2/repository/com/sun/xml/bind/jaxb-osgi/2.3.0.1/jaxb-osgi-2.3.0.1.jar:/Users/suresh/.m2/repository/org/apache/sling/org.apache.sling.javax.activation/0.1.0/org.apache.sling.javax.activation-0.1.0.jar:/Users/suresh/.m2/repository/javax/activation/activation/1.1.1/activation-1.1.1.jar:/Users/suresh/.m2/repository/org/testng/testng/7.1.0/testng-7.1.0.jar:/Users/suresh/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar:/Users/suresh/.m2/repository/com/google/inject/guice/4.1.0/guice-4.1.0-no_aop.jar:/Users/suresh/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar:/Users/suresh/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar:/Users/suresh/.m2/repository/com/google/guava/guava/19.0/guava-19.0.jar:/Users/suresh/.m2/repository/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar org.testng.remote.RemoteTestNG -serport 51347 -protocol json -d /Users/suresh/eclipse-workspace/RestAssuredAutomation/test-output /var/folders/j2/nd01tqbs2ts83d5tll5g3n5m0000gn/T/testng-eclipse-1316736606/testng-customsuite.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:04:41.509
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:04:41.510
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.testng.eclipse 1 0 2020-04-22 15:04:47.769
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar /Users/suresh/eclipse-workspace/RestAssuredAutomation/target/test-classes /Users/suresh/eclipse-workspace/RestAssuredAutomation/target/classes /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar /Users/suresh/.m2/repository/io/rest-assured/rest-assured/4.3.0/rest-assured-4.3.0.jar /Users/suresh/.m2/repository/org/codehaus/groovy/groovy/3.0.2/groovy-3.0.2.jar /Users/suresh/.m2/repository/org/codehaus/groovy/groovy-xml/3.0.2/groovy-xml-3.0.2.jar /Users/suresh/.m2/repository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar /Users/suresh/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar /Users/suresh/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar /Users/suresh/.m2/repository/commons-codec/commons-codec/1.9/commons-codec-1.9.jar /Users/suresh/.m2/repository/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3.jar /Users/suresh/.m2/repository/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar /Users/suresh/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar /Users/suresh/.m2/repository/io/rest-assured/json-path/4.3.0/json-path-4.3.0.jar /Users/suresh/.m2/repository/org/codehaus/groovy/groovy-json/3.0.2/groovy-json-3.0.2.jar /Users/suresh/.m2/repository/io/rest-assured/rest-assured-common/4.3.0/rest-assured-common-4.3.0.jar /Users/suresh/.m2/repository/io/rest-assured/xml-path/4.3.0/xml-path-4.3.0.jar /Users/suresh/.m2/repository/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar /Users/suresh/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.2/jakarta.xml.bind-api-2.3.2.jar /Users/suresh/.m2/repository/jakarta/activation/jakarta.activation-api/1.2.1/jakarta.activation-api-1.2.1.jar /Users/suresh/.m2/repository/com/sun/xml/bind/jaxb-osgi/2.3.0.1/jaxb-osgi-2.3.0.1.jar /Users/suresh/.m2/repository/org/apache/sling/org.apache.sling.javax.activation/0.1.0/org.apache.sling.javax.activation-0.1.0.jar /Users/suresh/.m2/repository/javax/activation/activation/1.1.1/activation-1.1.1.jar /Users/suresh/.m2/repository/org/testng/testng/7.1.0/testng-7.1.0.jar /Users/suresh/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar /Users/suresh/.m2/repository/com/google/inject/guice/4.1.0/guice-4.1.0-no_aop.jar /Users/suresh/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar /Users/suresh/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar /Users/suresh/.m2/repository/com/google/guava/guava/19.0/guava-19.0.jar /Users/suresh/.m2/repository/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 51350 -protocol json -d /Users/suresh/eclipse-workspace/RestAssuredAutomation/test-output /var/folders/j2/nd01tqbs2ts83d5tll5g3n5m0000gn/T/testng-eclipse-1785207525/testng-customsuite.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar:/Users/suresh/eclipse-workspace/RestAssuredAutomation/target/test-classes:/Users/suresh/eclipse-workspace/RestAssuredAutomation/target/classes:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar:/Users/suresh/.m2/repository/io/rest-assured/rest-assured/4.3.0/rest-assured-4.3.0.jar:/Users/suresh/.m2/repository/org/codehaus/groovy/groovy/3.0.2/groovy-3.0.2.jar:/Users/suresh/.m2/repository/org/codehaus/groovy/groovy-xml/3.0.2/groovy-xml-3.0.2.jar:/Users/suresh/.m2/repository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar:/Users/suresh/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar:/Users/suresh/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/suresh/.m2/repository/commons-codec/commons-codec/1.9/commons-codec-1.9.jar:/Users/suresh/.m2/repository/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3.jar:/Users/suresh/.m2/repository/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar:/Users/suresh/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar:/Users/suresh/.m2/repository/io/rest-assured/json-path/4.3.0/json-path-4.3.0.jar:/Users/suresh/.m2/repository/org/codehaus/groovy/groovy-json/3.0.2/groovy-json-3.0.2.jar:/Users/suresh/.m2/repository/io/rest-assured/rest-assured-common/4.3.0/rest-assured-common-4.3.0.jar:/Users/suresh/.m2/repository/io/rest-assured/xml-path/4.3.0/xml-path-4.3.0.jar:/Users/suresh/.m2/repository/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar:/Users/suresh/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.2/jakarta.xml.bind-api-2.3.2.jar:/Users/suresh/.m2/repository/jakarta/activation/jakarta.activation-api/1.2.1/jakarta.activation-api-1.2.1.jar:/Users/suresh/.m2/repository/com/sun/xml/bind/jaxb-osgi/2.3.0.1/jaxb-osgi-2.3.0.1.jar:/Users/suresh/.m2/repository/org/apache/sling/org.apache.sling.javax.activation/0.1.0/org.apache.sling.javax.activation-0.1.0.jar:/Users/suresh/.m2/repository/javax/activation/activation/1.1.1/activation-1.1.1.jar:/Users/suresh/.m2/repository/org/testng/testng/7.1.0/testng-7.1.0.jar:/Users/suresh/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar:/Users/suresh/.m2/repository/com/google/inject/guice/4.1.0/guice-4.1.0-no_aop.jar:/Users/suresh/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar:/Users/suresh/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar:/Users/suresh/.m2/repository/com/google/guava/guava/19.0/guava-19.0.jar:/Users/suresh/.m2/repository/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar org.testng.remote.RemoteTestNG -serport 51350 -protocol json -d /Users/suresh/eclipse-workspace/RestAssuredAutomation/test-output /var/folders/j2/nd01tqbs2ts83d5tll5g3n5m0000gn/T/testng-eclipse-1785207525/testng-customsuite.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:04:58.342
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:04:58.343
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:20:17.412
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:20:17.414
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:21:43.561
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:21:43.562
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:24:21.762
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:24:21.764
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:25:01.228
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:25:01.230
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:25:05.970
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:25:05.971
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:25:42.291
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:25:42.292
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:26:25.888
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:26:25.889
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:26:50.992
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:26:50.993
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:27:38.699
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:27:38.700
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:28:10.157
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:28:10.158
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:28:36.043
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:28:36.045
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:29:06.601
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:29:06.602
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:29:51.877
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:29:51.878
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:29:56.528
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:29:56.529
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:30:10.757
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:30:10.758
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:30:18.286
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:30:18.288
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:30:41.015
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:30:41.016
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:30:43.634
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:30:43.635
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:30:47.110
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:30:47.112
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:32:16.975
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:32:16.976
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:32:34.496
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:32:34.497
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:33:04.352
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:33:04.353
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:34:44.368
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:34:44.369
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:34:51.716
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:34:51.717
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:34:59.682
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:34:59.683
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:35:13.899
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:35:13.901
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:36:10.841
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:36:10.842
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:36:42.426
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:36:42.428
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:37:00.658
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:37:00.659
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:37:21.374
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:37:21.375
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:38:11.436
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:38:11.437
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:38:43.901
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:38:43.903
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:39:26.062
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:39:26.063
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:40:20.551
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:40:20.553
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:40:25.279
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:40:25.281
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:40:29.035
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:40:29.036
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:40:33.348
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:40:33.349
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:40:45.297
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:40:45.298
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.testng.eclipse 1 0 2020-04-22 15:40:50.795
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar /Users/suresh/eclipse-workspace/RestAssuredAutomation/target/test-classes /Users/suresh/eclipse-workspace/RestAssuredAutomation/target/classes /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar /Users/suresh/.m2/repository/io/rest-assured/rest-assured/4.3.0/rest-assured-4.3.0.jar /Users/suresh/.m2/repository/org/codehaus/groovy/groovy/3.0.2/groovy-3.0.2.jar /Users/suresh/.m2/repository/org/codehaus/groovy/groovy-xml/3.0.2/groovy-xml-3.0.2.jar /Users/suresh/.m2/repository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar /Users/suresh/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar /Users/suresh/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar /Users/suresh/.m2/repository/commons-codec/commons-codec/1.9/commons-codec-1.9.jar /Users/suresh/.m2/repository/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3.jar /Users/suresh/.m2/repository/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar /Users/suresh/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar /Users/suresh/.m2/repository/io/rest-assured/json-path/4.3.0/json-path-4.3.0.jar /Users/suresh/.m2/repository/org/codehaus/groovy/groovy-json/3.0.2/groovy-json-3.0.2.jar /Users/suresh/.m2/repository/io/rest-assured/rest-assured-common/4.3.0/rest-assured-common-4.3.0.jar /Users/suresh/.m2/repository/io/rest-assured/xml-path/4.3.0/xml-path-4.3.0.jar /Users/suresh/.m2/repository/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar /Users/suresh/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.2/jakarta.xml.bind-api-2.3.2.jar /Users/suresh/.m2/repository/jakarta/activation/jakarta.activation-api/1.2.1/jakarta.activation-api-1.2.1.jar /Users/suresh/.m2/repository/com/sun/xml/bind/jaxb-osgi/2.3.0.1/jaxb-osgi-2.3.0.1.jar /Users/suresh/.m2/repository/org/apache/sling/org.apache.sling.javax.activation/0.1.0/org.apache.sling.javax.activation-0.1.0.jar /Users/suresh/.m2/repository/javax/activation/activation/1.1.1/activation-1.1.1.jar /Users/suresh/.m2/repository/org/testng/testng/7.1.0/testng-7.1.0.jar /Users/suresh/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar /Users/suresh/.m2/repository/com/google/inject/guice/4.1.0/guice-4.1.0-no_aop.jar /Users/suresh/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar /Users/suresh/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar /Users/suresh/.m2/repository/com/google/guava/guava/19.0/guava-19.0.jar /Users/suresh/.m2/repository/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 51632 -protocol json -d /Users/suresh/eclipse-workspace/RestAssuredAutomation/test-output /var/folders/j2/nd01tqbs2ts83d5tll5g3n5m0000gn/T/testng-eclipse-1203144259/testng-customsuite.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar:/Users/suresh/eclipse-workspace/RestAssuredAutomation/target/test-classes:/Users/suresh/eclipse-workspace/RestAssuredAutomation/target/classes:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar:/Users/suresh/.m2/repository/io/rest-assured/rest-assured/4.3.0/rest-assured-4.3.0.jar:/Users/suresh/.m2/repository/org/codehaus/groovy/groovy/3.0.2/groovy-3.0.2.jar:/Users/suresh/.m2/repository/org/codehaus/groovy/groovy-xml/3.0.2/groovy-xml-3.0.2.jar:/Users/suresh/.m2/repository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar:/Users/suresh/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar:/Users/suresh/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/suresh/.m2/repository/commons-codec/commons-codec/1.9/commons-codec-1.9.jar:/Users/suresh/.m2/repository/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3.jar:/Users/suresh/.m2/repository/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar:/Users/suresh/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar:/Users/suresh/.m2/repository/io/rest-assured/json-path/4.3.0/json-path-4.3.0.jar:/Users/suresh/.m2/repository/org/codehaus/groovy/groovy-json/3.0.2/groovy-json-3.0.2.jar:/Users/suresh/.m2/repository/io/rest-assured/rest-assured-common/4.3.0/rest-assured-common-4.3.0.jar:/Users/suresh/.m2/repository/io/rest-assured/xml-path/4.3.0/xml-path-4.3.0.jar:/Users/suresh/.m2/repository/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar:/Users/suresh/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.2/jakarta.xml.bind-api-2.3.2.jar:/Users/suresh/.m2/repository/jakarta/activation/jakarta.activation-api/1.2.1/jakarta.activation-api-1.2.1.jar:/Users/suresh/.m2/repository/com/sun/xml/bind/jaxb-osgi/2.3.0.1/jaxb-osgi-2.3.0.1.jar:/Users/suresh/.m2/repository/org/apache/sling/org.apache.sling.javax.activation/0.1.0/org.apache.sling.javax.activation-0.1.0.jar:/Users/suresh/.m2/repository/javax/activation/activation/1.1.1/activation-1.1.1.jar:/Users/suresh/.m2/repository/org/testng/testng/7.1.0/testng-7.1.0.jar:/Users/suresh/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar:/Users/suresh/.m2/repository/com/google/inject/guice/4.1.0/guice-4.1.0-no_aop.jar:/Users/suresh/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar:/Users/suresh/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar:/Users/suresh/.m2/repository/com/google/guava/guava/19.0/guava-19.0.jar:/Users/suresh/.m2/repository/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar org.testng.remote.RemoteTestNG -serport 51632 -protocol json -d /Users/suresh/eclipse-workspace/RestAssuredAutomation/test-output /var/folders/j2/nd01tqbs2ts83d5tll5g3n5m0000gn/T/testng-eclipse-1203144259/testng-customsuite.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:41:18.799
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:41:18.801
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.testng.eclipse 1 0 2020-04-22 15:41:24.209
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar /Users/suresh/eclipse-workspace/RestAssuredAutomation/target/test-classes /Users/suresh/eclipse-workspace/RestAssuredAutomation/target/classes /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar /Users/suresh/.m2/repository/io/rest-assured/rest-assured/4.3.0/rest-assured-4.3.0.jar /Users/suresh/.m2/repository/org/codehaus/groovy/groovy/3.0.2/groovy-3.0.2.jar /Users/suresh/.m2/repository/org/codehaus/groovy/groovy-xml/3.0.2/groovy-xml-3.0.2.jar /Users/suresh/.m2/repository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar /Users/suresh/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar /Users/suresh/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar /Users/suresh/.m2/repository/commons-codec/commons-codec/1.9/commons-codec-1.9.jar /Users/suresh/.m2/repository/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3.jar /Users/suresh/.m2/repository/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar /Users/suresh/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar /Users/suresh/.m2/repository/io/rest-assured/json-path/4.3.0/json-path-4.3.0.jar /Users/suresh/.m2/repository/org/codehaus/groovy/groovy-json/3.0.2/groovy-json-3.0.2.jar /Users/suresh/.m2/repository/io/rest-assured/rest-assured-common/4.3.0/rest-assured-common-4.3.0.jar /Users/suresh/.m2/repository/io/rest-assured/xml-path/4.3.0/xml-path-4.3.0.jar /Users/suresh/.m2/repository/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar /Users/suresh/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.2/jakarta.xml.bind-api-2.3.2.jar /Users/suresh/.m2/repository/jakarta/activation/jakarta.activation-api/1.2.1/jakarta.activation-api-1.2.1.jar /Users/suresh/.m2/repository/com/sun/xml/bind/jaxb-osgi/2.3.0.1/jaxb-osgi-2.3.0.1.jar /Users/suresh/.m2/repository/org/apache/sling/org.apache.sling.javax.activation/0.1.0/org.apache.sling.javax.activation-0.1.0.jar /Users/suresh/.m2/repository/javax/activation/activation/1.1.1/activation-1.1.1.jar /Users/suresh/.m2/repository/org/testng/testng/7.1.0/testng-7.1.0.jar /Users/suresh/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar /Users/suresh/.m2/repository/com/google/inject/guice/4.1.0/guice-4.1.0-no_aop.jar /Users/suresh/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar /Users/suresh/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar /Users/suresh/.m2/repository/com/google/guava/guava/19.0/guava-19.0.jar /Users/suresh/.m2/repository/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 51660 -protocol json -d /Users/suresh/eclipse-workspace/RestAssuredAutomation/test-output /var/folders/j2/nd01tqbs2ts83d5tll5g3n5m0000gn/T/testng-eclipse-1318614902/testng-customsuite.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar:/Users/suresh/eclipse-workspace/RestAssuredAutomation/target/test-classes:/Users/suresh/eclipse-workspace/RestAssuredAutomation/target/classes:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar:/Users/suresh/.m2/repository/io/rest-assured/rest-assured/4.3.0/rest-assured-4.3.0.jar:/Users/suresh/.m2/repository/org/codehaus/groovy/groovy/3.0.2/groovy-3.0.2.jar:/Users/suresh/.m2/repository/org/codehaus/groovy/groovy-xml/3.0.2/groovy-xml-3.0.2.jar:/Users/suresh/.m2/repository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar:/Users/suresh/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar:/Users/suresh/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/suresh/.m2/repository/commons-codec/commons-codec/1.9/commons-codec-1.9.jar:/Users/suresh/.m2/repository/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3.jar:/Users/suresh/.m2/repository/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar:/Users/suresh/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar:/Users/suresh/.m2/repository/io/rest-assured/json-path/4.3.0/json-path-4.3.0.jar:/Users/suresh/.m2/repository/org/codehaus/groovy/groovy-json/3.0.2/groovy-json-3.0.2.jar:/Users/suresh/.m2/repository/io/rest-assured/rest-assured-common/4.3.0/rest-assured-common-4.3.0.jar:/Users/suresh/.m2/repository/io/rest-assured/xml-path/4.3.0/xml-path-4.3.0.jar:/Users/suresh/.m2/repository/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar:/Users/suresh/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.2/jakarta.xml.bind-api-2.3.2.jar:/Users/suresh/.m2/repository/jakarta/activation/jakarta.activation-api/1.2.1/jakarta.activation-api-1.2.1.jar:/Users/suresh/.m2/repository/com/sun/xml/bind/jaxb-osgi/2.3.0.1/jaxb-osgi-2.3.0.1.jar:/Users/suresh/.m2/repository/org/apache/sling/org.apache.sling.javax.activation/0.1.0/org.apache.sling.javax.activation-0.1.0.jar:/Users/suresh/.m2/repository/javax/activation/activation/1.1.1/activation-1.1.1.jar:/Users/suresh/.m2/repository/org/testng/testng/7.1.0/testng-7.1.0.jar:/Users/suresh/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar:/Users/suresh/.m2/repository/com/google/inject/guice/4.1.0/guice-4.1.0-no_aop.jar:/Users/suresh/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar:/Users/suresh/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar:/Users/suresh/.m2/repository/com/google/guava/guava/19.0/guava-19.0.jar:/Users/suresh/.m2/repository/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar org.testng.remote.RemoteTestNG -serport 51660 -protocol json -d /Users/suresh/eclipse-workspace/RestAssuredAutomation/test-output /var/folders/j2/nd01tqbs2ts83d5tll5g3n5m0000gn/T/testng-eclipse-1318614902/testng-customsuite.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:42:06.114
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:42:06.115
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.testng.eclipse 1 0 2020-04-22 15:42:10.466
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar /Users/suresh/eclipse-workspace/RestAssuredAutomation/target/test-classes /Users/suresh/eclipse-workspace/RestAssuredAutomation/target/classes /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar /Users/suresh/.m2/repository/io/rest-assured/rest-assured/4.3.0/rest-assured-4.3.0.jar /Users/suresh/.m2/repository/org/codehaus/groovy/groovy/3.0.2/groovy-3.0.2.jar /Users/suresh/.m2/repository/org/codehaus/groovy/groovy-xml/3.0.2/groovy-xml-3.0.2.jar /Users/suresh/.m2/repository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar /Users/suresh/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar /Users/suresh/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar /Users/suresh/.m2/repository/commons-codec/commons-codec/1.9/commons-codec-1.9.jar /Users/suresh/.m2/repository/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3.jar /Users/suresh/.m2/repository/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar /Users/suresh/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar /Users/suresh/.m2/repository/io/rest-assured/json-path/4.3.0/json-path-4.3.0.jar /Users/suresh/.m2/repository/org/codehaus/groovy/groovy-json/3.0.2/groovy-json-3.0.2.jar /Users/suresh/.m2/repository/io/rest-assured/rest-assured-common/4.3.0/rest-assured-common-4.3.0.jar /Users/suresh/.m2/repository/io/rest-assured/xml-path/4.3.0/xml-path-4.3.0.jar /Users/suresh/.m2/repository/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar /Users/suresh/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.2/jakarta.xml.bind-api-2.3.2.jar /Users/suresh/.m2/repository/jakarta/activation/jakarta.activation-api/1.2.1/jakarta.activation-api-1.2.1.jar /Users/suresh/.m2/repository/com/sun/xml/bind/jaxb-osgi/2.3.0.1/jaxb-osgi-2.3.0.1.jar /Users/suresh/.m2/repository/org/apache/sling/org.apache.sling.javax.activation/0.1.0/org.apache.sling.javax.activation-0.1.0.jar /Users/suresh/.m2/repository/javax/activation/activation/1.1.1/activation-1.1.1.jar /Users/suresh/.m2/repository/org/testng/testng/7.1.0/testng-7.1.0.jar /Users/suresh/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar /Users/suresh/.m2/repository/com/google/inject/guice/4.1.0/guice-4.1.0-no_aop.jar /Users/suresh/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar /Users/suresh/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar /Users/suresh/.m2/repository/com/google/guava/guava/19.0/guava-19.0.jar /Users/suresh/.m2/repository/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 51667 -protocol json -d /Users/suresh/eclipse-workspace/RestAssuredAutomation/test-output /var/folders/j2/nd01tqbs2ts83d5tll5g3n5m0000gn/T/testng-eclipse--162421532/testng-customsuite.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar:/Users/suresh/eclipse-workspace/RestAssuredAutomation/target/test-classes:/Users/suresh/eclipse-workspace/RestAssuredAutomation/target/classes:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar:/Users/suresh/.m2/repository/io/rest-assured/rest-assured/4.3.0/rest-assured-4.3.0.jar:/Users/suresh/.m2/repository/org/codehaus/groovy/groovy/3.0.2/groovy-3.0.2.jar:/Users/suresh/.m2/repository/org/codehaus/groovy/groovy-xml/3.0.2/groovy-xml-3.0.2.jar:/Users/suresh/.m2/repository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar:/Users/suresh/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar:/Users/suresh/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/suresh/.m2/repository/commons-codec/commons-codec/1.9/commons-codec-1.9.jar:/Users/suresh/.m2/repository/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3.jar:/Users/suresh/.m2/repository/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar:/Users/suresh/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar:/Users/suresh/.m2/repository/io/rest-assured/json-path/4.3.0/json-path-4.3.0.jar:/Users/suresh/.m2/repository/org/codehaus/groovy/groovy-json/3.0.2/groovy-json-3.0.2.jar:/Users/suresh/.m2/repository/io/rest-assured/rest-assured-common/4.3.0/rest-assured-common-4.3.0.jar:/Users/suresh/.m2/repository/io/rest-assured/xml-path/4.3.0/xml-path-4.3.0.jar:/Users/suresh/.m2/repository/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar:/Users/suresh/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.2/jakarta.xml.bind-api-2.3.2.jar:/Users/suresh/.m2/repository/jakarta/activation/jakarta.activation-api/1.2.1/jakarta.activation-api-1.2.1.jar:/Users/suresh/.m2/repository/com/sun/xml/bind/jaxb-osgi/2.3.0.1/jaxb-osgi-2.3.0.1.jar:/Users/suresh/.m2/repository/org/apache/sling/org.apache.sling.javax.activation/0.1.0/org.apache.sling.javax.activation-0.1.0.jar:/Users/suresh/.m2/repository/javax/activation/activation/1.1.1/activation-1.1.1.jar:/Users/suresh/.m2/repository/org/testng/testng/7.1.0/testng-7.1.0.jar:/Users/suresh/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar:/Users/suresh/.m2/repository/com/google/inject/guice/4.1.0/guice-4.1.0-no_aop.jar:/Users/suresh/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar:/Users/suresh/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar:/Users/suresh/.m2/repository/com/google/guava/guava/19.0/guava-19.0.jar:/Users/suresh/.m2/repository/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar org.testng.remote.RemoteTestNG -serport 51667 -protocol json -d /Users/suresh/eclipse-workspace/RestAssuredAutomation/test-output /var/folders/j2/nd01tqbs2ts83d5tll5g3n5m0000gn/T/testng-eclipse--162421532/testng-customsuite.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:42:18.848
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:42:18.849
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.testng.eclipse 1 0 2020-04-22 15:42:22.840
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar /Users/suresh/eclipse-workspace/RestAssuredAutomation/target/test-classes /Users/suresh/eclipse-workspace/RestAssuredAutomation/target/classes /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar /Users/suresh/.m2/repository/io/rest-assured/rest-assured/4.3.0/rest-assured-4.3.0.jar /Users/suresh/.m2/repository/org/codehaus/groovy/groovy/3.0.2/groovy-3.0.2.jar /Users/suresh/.m2/repository/org/codehaus/groovy/groovy-xml/3.0.2/groovy-xml-3.0.2.jar /Users/suresh/.m2/repository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar /Users/suresh/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar /Users/suresh/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar /Users/suresh/.m2/repository/commons-codec/commons-codec/1.9/commons-codec-1.9.jar /Users/suresh/.m2/repository/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3.jar /Users/suresh/.m2/repository/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar /Users/suresh/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar /Users/suresh/.m2/repository/io/rest-assured/json-path/4.3.0/json-path-4.3.0.jar /Users/suresh/.m2/repository/org/codehaus/groovy/groovy-json/3.0.2/groovy-json-3.0.2.jar /Users/suresh/.m2/repository/io/rest-assured/rest-assured-common/4.3.0/rest-assured-common-4.3.0.jar /Users/suresh/.m2/repository/io/rest-assured/xml-path/4.3.0/xml-path-4.3.0.jar /Users/suresh/.m2/repository/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar /Users/suresh/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.2/jakarta.xml.bind-api-2.3.2.jar /Users/suresh/.m2/repository/jakarta/activation/jakarta.activation-api/1.2.1/jakarta.activation-api-1.2.1.jar /Users/suresh/.m2/repository/com/sun/xml/bind/jaxb-osgi/2.3.0.1/jaxb-osgi-2.3.0.1.jar /Users/suresh/.m2/repository/org/apache/sling/org.apache.sling.javax.activation/0.1.0/org.apache.sling.javax.activation-0.1.0.jar /Users/suresh/.m2/repository/javax/activation/activation/1.1.1/activation-1.1.1.jar /Users/suresh/.m2/repository/org/testng/testng/7.1.0/testng-7.1.0.jar /Users/suresh/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar /Users/suresh/.m2/repository/com/google/inject/guice/4.1.0/guice-4.1.0-no_aop.jar /Users/suresh/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar /Users/suresh/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar /Users/suresh/.m2/repository/com/google/guava/guava/19.0/guava-19.0.jar /Users/suresh/.m2/repository/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 51670 -protocol json -d /Users/suresh/eclipse-workspace/RestAssuredAutomation/test-output /var/folders/j2/nd01tqbs2ts83d5tll5g3n5m0000gn/T/testng-eclipse-505148458/testng-customsuite.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar:/Users/suresh/eclipse-workspace/RestAssuredAutomation/target/test-classes:/Users/suresh/eclipse-workspace/RestAssuredAutomation/target/classes:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar:/Users/suresh/.m2/repository/io/rest-assured/rest-assured/4.3.0/rest-assured-4.3.0.jar:/Users/suresh/.m2/repository/org/codehaus/groovy/groovy/3.0.2/groovy-3.0.2.jar:/Users/suresh/.m2/repository/org/codehaus/groovy/groovy-xml/3.0.2/groovy-xml-3.0.2.jar:/Users/suresh/.m2/repository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar:/Users/suresh/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar:/Users/suresh/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/suresh/.m2/repository/commons-codec/commons-codec/1.9/commons-codec-1.9.jar:/Users/suresh/.m2/repository/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3.jar:/Users/suresh/.m2/repository/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar:/Users/suresh/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar:/Users/suresh/.m2/repository/io/rest-assured/json-path/4.3.0/json-path-4.3.0.jar:/Users/suresh/.m2/repository/org/codehaus/groovy/groovy-json/3.0.2/groovy-json-3.0.2.jar:/Users/suresh/.m2/repository/io/rest-assured/rest-assured-common/4.3.0/rest-assured-common-4.3.0.jar:/Users/suresh/.m2/repository/io/rest-assured/xml-path/4.3.0/xml-path-4.3.0.jar:/Users/suresh/.m2/repository/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar:/Users/suresh/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.2/jakarta.xml.bind-api-2.3.2.jar:/Users/suresh/.m2/repository/jakarta/activation/jakarta.activation-api/1.2.1/jakarta.activation-api-1.2.1.jar:/Users/suresh/.m2/repository/com/sun/xml/bind/jaxb-osgi/2.3.0.1/jaxb-osgi-2.3.0.1.jar:/Users/suresh/.m2/repository/org/apache/sling/org.apache.sling.javax.activation/0.1.0/org.apache.sling.javax.activation-0.1.0.jar:/Users/suresh/.m2/repository/javax/activation/activation/1.1.1/activation-1.1.1.jar:/Users/suresh/.m2/repository/org/testng/testng/7.1.0/testng-7.1.0.jar:/Users/suresh/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar:/Users/suresh/.m2/repository/com/google/inject/guice/4.1.0/guice-4.1.0-no_aop.jar:/Users/suresh/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar:/Users/suresh/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar:/Users/suresh/.m2/repository/com/google/guava/guava/19.0/guava-19.0.jar:/Users/suresh/.m2/repository/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar org.testng.remote.RemoteTestNG -serport 51670 -protocol json -d /Users/suresh/eclipse-workspace/RestAssuredAutomation/test-output /var/folders/j2/nd01tqbs2ts83d5tll5g3n5m0000gn/T/testng-eclipse-505148458/testng-customsuite.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:43:19.769
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:43:19.770
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:46:10.513
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:46:10.515
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:46:46.873
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:46:46.874
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:46:52.441
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:46:52.443
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:47:02.014
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:47:02.015
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.testng.eclipse 1 0 2020-04-22 15:47:06.592
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar /Users/suresh/eclipse-workspace/RestAssuredAutomation/target/test-classes /Users/suresh/eclipse-workspace/RestAssuredAutomation/target/classes /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar /Users/suresh/.m2/repository/io/rest-assured/rest-assured/4.3.0/rest-assured-4.3.0.jar /Users/suresh/.m2/repository/org/codehaus/groovy/groovy/3.0.2/groovy-3.0.2.jar /Users/suresh/.m2/repository/org/codehaus/groovy/groovy-xml/3.0.2/groovy-xml-3.0.2.jar /Users/suresh/.m2/repository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar /Users/suresh/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar /Users/suresh/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar /Users/suresh/.m2/repository/commons-codec/commons-codec/1.9/commons-codec-1.9.jar /Users/suresh/.m2/repository/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3.jar /Users/suresh/.m2/repository/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar /Users/suresh/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar /Users/suresh/.m2/repository/io/rest-assured/json-path/4.3.0/json-path-4.3.0.jar /Users/suresh/.m2/repository/org/codehaus/groovy/groovy-json/3.0.2/groovy-json-3.0.2.jar /Users/suresh/.m2/repository/io/rest-assured/rest-assured-common/4.3.0/rest-assured-common-4.3.0.jar /Users/suresh/.m2/repository/io/rest-assured/xml-path/4.3.0/xml-path-4.3.0.jar /Users/suresh/.m2/repository/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar /Users/suresh/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.2/jakarta.xml.bind-api-2.3.2.jar /Users/suresh/.m2/repository/jakarta/activation/jakarta.activation-api/1.2.1/jakarta.activation-api-1.2.1.jar /Users/suresh/.m2/repository/com/sun/xml/bind/jaxb-osgi/2.3.0.1/jaxb-osgi-2.3.0.1.jar /Users/suresh/.m2/repository/org/apache/sling/org.apache.sling.javax.activation/0.1.0/org.apache.sling.javax.activation-0.1.0.jar /Users/suresh/.m2/repository/javax/activation/activation/1.1.1/activation-1.1.1.jar /Users/suresh/.m2/repository/org/testng/testng/7.1.0/testng-7.1.0.jar /Users/suresh/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar /Users/suresh/.m2/repository/com/google/inject/guice/4.1.0/guice-4.1.0-no_aop.jar /Users/suresh/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar /Users/suresh/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar /Users/suresh/.m2/repository/com/google/guava/guava/19.0/guava-19.0.jar /Users/suresh/.m2/repository/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 51726 -protocol json -d /Users/suresh/eclipse-workspace/RestAssuredAutomation/test-output /var/folders/j2/nd01tqbs2ts83d5tll5g3n5m0000gn/T/testng-eclipse-1966807885/testng-customsuite.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar:/Users/suresh/eclipse-workspace/RestAssuredAutomation/target/test-classes:/Users/suresh/eclipse-workspace/RestAssuredAutomation/target/classes:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar:/Users/suresh/.m2/repository/io/rest-assured/rest-assured/4.3.0/rest-assured-4.3.0.jar:/Users/suresh/.m2/repository/org/codehaus/groovy/groovy/3.0.2/groovy-3.0.2.jar:/Users/suresh/.m2/repository/org/codehaus/groovy/groovy-xml/3.0.2/groovy-xml-3.0.2.jar:/Users/suresh/.m2/repository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar:/Users/suresh/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar:/Users/suresh/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/suresh/.m2/repository/commons-codec/commons-codec/1.9/commons-codec-1.9.jar:/Users/suresh/.m2/repository/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3.jar:/Users/suresh/.m2/repository/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar:/Users/suresh/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar:/Users/suresh/.m2/repository/io/rest-assured/json-path/4.3.0/json-path-4.3.0.jar:/Users/suresh/.m2/repository/org/codehaus/groovy/groovy-json/3.0.2/groovy-json-3.0.2.jar:/Users/suresh/.m2/repository/io/rest-assured/rest-assured-common/4.3.0/rest-assured-common-4.3.0.jar:/Users/suresh/.m2/repository/io/rest-assured/xml-path/4.3.0/xml-path-4.3.0.jar:/Users/suresh/.m2/repository/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar:/Users/suresh/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.2/jakarta.xml.bind-api-2.3.2.jar:/Users/suresh/.m2/repository/jakarta/activation/jakarta.activation-api/1.2.1/jakarta.activation-api-1.2.1.jar:/Users/suresh/.m2/repository/com/sun/xml/bind/jaxb-osgi/2.3.0.1/jaxb-osgi-2.3.0.1.jar:/Users/suresh/.m2/repository/org/apache/sling/org.apache.sling.javax.activation/0.1.0/org.apache.sling.javax.activation-0.1.0.jar:/Users/suresh/.m2/repository/javax/activation/activation/1.1.1/activation-1.1.1.jar:/Users/suresh/.m2/repository/org/testng/testng/7.1.0/testng-7.1.0.jar:/Users/suresh/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar:/Users/suresh/.m2/repository/com/google/inject/guice/4.1.0/guice-4.1.0-no_aop.jar:/Users/suresh/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar:/Users/suresh/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar:/Users/suresh/.m2/repository/com/google/guava/guava/19.0/guava-19.0.jar:/Users/suresh/.m2/repository/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar org.testng.remote.RemoteTestNG -serport 51726 -protocol json -d /Users/suresh/eclipse-workspace/RestAssuredAutomation/test-output /var/folders/j2/nd01tqbs2ts83d5tll5g3n5m0000gn/T/testng-eclipse-1966807885/testng-customsuite.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:48:01.843
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:48:01.844
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:48:44.510
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:48:44.511
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:48:48.355
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:48:48.356
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:48:55.257
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:48:55.259
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:49:12.409
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-22 15:49:12.410
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.testng.eclipse 1 0 2020-04-22 15:49:18.430
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar /Users/suresh/eclipse-workspace/RestAssuredAutomation/target/test-classes /Users/suresh/eclipse-workspace/RestAssuredAutomation/target/classes /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar /Users/suresh/.m2/repository/io/rest-assured/rest-assured/4.3.0/rest-assured-4.3.0.jar /Users/suresh/.m2/repository/org/codehaus/groovy/groovy/3.0.2/groovy-3.0.2.jar /Users/suresh/.m2/repository/org/codehaus/groovy/groovy-xml/3.0.2/groovy-xml-3.0.2.jar /Users/suresh/.m2/repository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar /Users/suresh/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar /Users/suresh/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar /Users/suresh/.m2/repository/commons-codec/commons-codec/1.9/commons-codec-1.9.jar /Users/suresh/.m2/repository/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3.jar /Users/suresh/.m2/repository/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar /Users/suresh/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar /Users/suresh/.m2/repository/io/rest-assured/json-path/4.3.0/json-path-4.3.0.jar /Users/suresh/.m2/repository/org/codehaus/groovy/groovy-json/3.0.2/groovy-json-3.0.2.jar /Users/suresh/.m2/repository/io/rest-assured/rest-assured-common/4.3.0/rest-assured-common-4.3.0.jar /Users/suresh/.m2/repository/io/rest-assured/xml-path/4.3.0/xml-path-4.3.0.jar /Users/suresh/.m2/repository/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar /Users/suresh/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.2/jakarta.xml.bind-api-2.3.2.jar /Users/suresh/.m2/repository/jakarta/activation/jakarta.activation-api/1.2.1/jakarta.activation-api-1.2.1.jar /Users/suresh/.m2/repository/com/sun/xml/bind/jaxb-osgi/2.3.0.1/jaxb-osgi-2.3.0.1.jar /Users/suresh/.m2/repository/org/apache/sling/org.apache.sling.javax.activation/0.1.0/org.apache.sling.javax.activation-0.1.0.jar /Users/suresh/.m2/repository/javax/activation/activation/1.1.1/activation-1.1.1.jar /Users/suresh/.m2/repository/org/testng/testng/7.1.0/testng-7.1.0.jar /Users/suresh/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar /Users/suresh/.m2/repository/com/google/inject/guice/4.1.0/guice-4.1.0-no_aop.jar /Users/suresh/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar /Users/suresh/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar /Users/suresh/.m2/repository/com/google/guava/guava/19.0/guava-19.0.jar /Users/suresh/.m2/repository/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 51737 -protocol json -d /Users/suresh/eclipse-workspace/RestAssuredAutomation/test-output /var/folders/j2/nd01tqbs2ts83d5tll5g3n5m0000gn/T/testng-eclipse-759666695/testng-customsuite.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar:/Users/suresh/eclipse-workspace/RestAssuredAutomation/target/test-classes:/Users/suresh/eclipse-workspace/RestAssuredAutomation/target/classes:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar:/Users/suresh/.m2/repository/io/rest-assured/rest-assured/4.3.0/rest-assured-4.3.0.jar:/Users/suresh/.m2/repository/org/codehaus/groovy/groovy/3.0.2/groovy-3.0.2.jar:/Users/suresh/.m2/repository/org/codehaus/groovy/groovy-xml/3.0.2/groovy-xml-3.0.2.jar:/Users/suresh/.m2/repository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar:/Users/suresh/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar:/Users/suresh/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/suresh/.m2/repository/commons-codec/commons-codec/1.9/commons-codec-1.9.jar:/Users/suresh/.m2/repository/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3.jar:/Users/suresh/.m2/repository/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar:/Users/suresh/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar:/Users/suresh/.m2/repository/io/rest-assured/json-path/4.3.0/json-path-4.3.0.jar:/Users/suresh/.m2/repository/org/codehaus/groovy/groovy-json/3.0.2/groovy-json-3.0.2.jar:/Users/suresh/.m2/repository/io/rest-assured/rest-assured-common/4.3.0/rest-assured-common-4.3.0.jar:/Users/suresh/.m2/repository/io/rest-assured/xml-path/4.3.0/xml-path-4.3.0.jar:/Users/suresh/.m2/repository/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar:/Users/suresh/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.2/jakarta.xml.bind-api-2.3.2.jar:/Users/suresh/.m2/repository/jakarta/activation/jakarta.activation-api/1.2.1/jakarta.activation-api-1.2.1.jar:/Users/suresh/.m2/repository/com/sun/xml/bind/jaxb-osgi/2.3.0.1/jaxb-osgi-2.3.0.1.jar:/Users/suresh/.m2/repository/org/apache/sling/org.apache.sling.javax.activation/0.1.0/org.apache.sling.javax.activation-0.1.0.jar:/Users/suresh/.m2/repository/javax/activation/activation/1.1.1/activation-1.1.1.jar:/Users/suresh/.m2/repository/org/testng/testng/7.1.0/testng-7.1.0.jar:/Users/suresh/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar:/Users/suresh/.m2/repository/com/google/inject/guice/4.1.0/guice-4.1.0-no_aop.jar:/Users/suresh/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar:/Users/suresh/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar:/Users/suresh/.m2/repository/com/google/guava/guava/19.0/guava-19.0.jar:/Users/suresh/.m2/repository/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar org.testng.remote.RemoteTestNG -serport 51737 -protocol json -d /Users/suresh/eclipse-workspace/RestAssuredAutomation/test-output /var/folders/j2/nd01tqbs2ts83d5tll5g3n5m0000gn/T/testng-eclipse-759666695/testng-customsuite.xml

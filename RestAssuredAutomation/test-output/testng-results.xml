@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2769" started-at="2020-04-22T15:49:18 EDT" finished-at="2020-04-22T15:49:21 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2769" started-at="2020-04-22T15:49:18 EDT" finished-at="2020-04-22T15:49:21 EDT">
+      <class name="TestCases.BasicCRUDUsingTestConfig">
+        <test-method status="PASS" signature="setup()[pri:0, instance:TestCases.BasicCRUDUsingTestConfig@7b49cea0]" name="setup" is-config="true" duration-ms="522" started-at="2020-04-22T15:49:18 EDT" finished-at="2020-04-22T15:49:19 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getCompetitions()[pri:0, instance:TestCases.BasicCRUDUsingTestConfig@7b49cea0]" name="getCompetitions" duration-ms="1610" started-at="2020-04-22T15:49:19 EDT" description="Get all competition using legacy given, when then" finished-at="2020-04-22T15:49:21 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCompetitions -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:TestCases.BasicCRUDUsingTestConfig@7b49cea0]" name="setup" is-config="true" duration-ms="6" started-at="2020-04-22T15:49:21 EDT" finished-at="2020-04-22T15:49:21 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getCompetitionsSimplified()[pri:0, instance:TestCases.BasicCRUDUsingTestConfig@7b49cea0]" name="getCompetitionsSimplified" duration-ms="587" started-at="2020-04-22T15:49:21 EDT" description="Get all competition simplified" finished-at="2020-04-22T15:49:21 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCompetitionsSimplified -->
+      </class> <!-- TestCases.BasicCRUDUsingTestConfig -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
