@@ -1,19 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
-  <test thread-count="5" name="Test(failed)">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="TestCases.RSAPITest">
+      <class name="TestCases.AssertionTest">
         <methods>
-          <include name="addPlace"/>
-          <include name="getPlaceUsingDEFAULTPlaceID"/>
-          <include name="changePlaceUsingDyamicPlaceID"/>
-          <include name="tearDown"/>
-          <include name="setup"/>
-          <include name="getDynamicPlaceID"/>
-          <include name="deletePlaceUsingDynamicPlaceID"/>
+          <include name="verifyTotalWithIndividualItems"/>
         </methods>
-      </class> <!-- TestCases.RSAPITest -->
+      </class> <!-- TestCases.AssertionTest -->
     </classes>
-  </test> <!-- Test(failed) -->
-</suite> <!-- Failed suite [Suite] -->
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

@@ -1,83 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+<testng-results skipped="0" failed="1" ignored="0" total="6" passed="5">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="12452" started-at="2020-04-22T18:48:05 EDT" finished-at="2020-04-22T18:48:17 EDT">
+  <suite name="Default suite" duration-ms="1263" started-at="2020-04-22T19:24:50 EDT" finished-at="2020-04-22T19:24:51 EDT">
     <groups>
     </groups>
-    <test name="Test" duration-ms="12452" started-at="2020-04-22T18:48:05 EDT" finished-at="2020-04-22T18:48:17 EDT">
-      <class name="TestCases.RSAPITest">
-        <test-method status="PASS" signature="setup()[pri:0, instance:TestCases.RSAPITest@50b494a6]" name="setup" is-config="true" duration-ms="34" started-at="2020-04-22T18:48:08 EDT" finished-at="2020-04-22T18:48:08 EDT">
+    <test name="Default test" duration-ms="1263" started-at="2020-04-22T19:24:50 EDT" finished-at="2020-04-22T19:24:51 EDT">
+      <class name="TestCases.AssertionTest">
+        <test-method status="PASS" signature="numberOfCoursesTest()[pri:1, instance:TestCases.AssertionTest@57536d79]" name="numberOfCoursesTest" duration-ms="873" started-at="2020-04-22T19:24:50 EDT" description="1. Print No of courses returned by API" finished-at="2020-04-22T19:24:50 EDT">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method status="PASS" signature="addPlace()[pri:0, instance:TestCases.RSAPITest@50b494a6]" name="addPlace" duration-ms="1498" started-at="2020-04-22T18:48:08 EDT" description="Adding a place into the system" finished-at="2020-04-22T18:48:09 EDT">
+        </test-method> <!-- numberOfCoursesTest -->
+        <test-method status="PASS" signature="printPurchaseAmount()[pri:2, instance:TestCases.AssertionTest@57536d79]" name="printPurchaseAmount" duration-ms="36" started-at="2020-04-22T19:24:51 EDT" description="2.Print Purchase Amount" finished-at="2020-04-22T19:24:51 EDT">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- addPlace -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:TestCases.RSAPITest@50b494a6]" name="setup" is-config="true" duration-ms="3" started-at="2020-04-22T18:48:09 EDT" finished-at="2020-04-22T18:48:09 EDT">
+        </test-method> <!-- printPurchaseAmount -->
+        <test-method status="PASS" signature="printTitleOfFirstCourse()[pri:3, instance:TestCases.AssertionTest@57536d79]" name="printTitleOfFirstCourse" duration-ms="38" started-at="2020-04-22T19:24:51 EDT" description="3.Print Title of the first course" finished-at="2020-04-22T19:24:51 EDT">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestCases.RSAPITest@50b494a6]" name="tearDown" is-config="true" duration-ms="0" started-at="2020-04-22T18:48:09 EDT" finished-at="2020-04-22T18:48:09 EDT">
+        </test-method> <!-- printTitleOfFirstCourse -->
+        <test-method status="PASS" signature="printAllCourseTitleAndPrice()[pri:4, instance:TestCases.AssertionTest@57536d79]" name="printAllCourseTitleAndPrice" duration-ms="85" started-at="2020-04-22T19:24:51 EDT" description="4.Print All course titles and their respective Prices" finished-at="2020-04-22T19:24:51 EDT">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="getDynamicPlaceID()[pri:0, instance:TestCases.RSAPITest@50b494a6]" name="getDynamicPlaceID" duration-ms="3477" started-at="2020-04-22T18:48:09 EDT" description="To get the place id dynamically" finished-at="2020-04-22T18:48:13 EDT">
+        </test-method> <!-- printAllCourseTitleAndPrice -->
+        <test-method status="PASS" signature="printRPACourseCopies()[pri:5, instance:TestCases.AssertionTest@57536d79]" name="printRPACourseCopies" duration-ms="47" started-at="2020-04-22T19:24:51 EDT" description="5.Print no of copies sold by RPA Course" finished-at="2020-04-22T19:24:51 EDT">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- getDynamicPlaceID -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestCases.RSAPITest@50b494a6]" name="tearDown" is-config="true" duration-ms="1" started-at="2020-04-22T18:48:13 EDT" finished-at="2020-04-22T18:48:13 EDT">
+        </test-method> <!-- printRPACourseCopies -->
+        <test-method status="FAIL" signature="verifyTotalWithIndividualItems()[pri:6, instance:TestCases.AssertionTest@57536d79]" name="verifyTotalWithIndividualItems" duration-ms="85" started-at="2020-04-22T19:24:51 EDT" description="6.Verify if Sum of all Course prices matches with Purchase Amount" finished-at="2020-04-22T19:24:51 EDT">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [1163] but found [1162]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [1163] but found [1162]
+at org.testng.Assert.fail(Assert.java:97)
+at org.testng.Assert.assertEqualsImpl(Assert.java:136)
+at org.testng.Assert.assertEquals(Assert.java:118)
+at org.testng.Assert.assertEquals(Assert.java:839)
+at org.testng.Assert.assertEquals(Assert.java:849)
+at TestCases.AssertionTest.verifyTotalWithIndividualItems(AssertionTest.java:100)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:584)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:172)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:804)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:145)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(ArrayList.java:1257)
+at org.testng.TestRunner.privateRun(TestRunner.java:770)
+at org.testng.TestRunner.run(TestRunner.java:591)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:402)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:396)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:355)
+at org.testng.SuiteRunner.run(SuiteRunner.java:304)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1180)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1102)
+at org.testng.TestNG.runSuites(TestNG.java:1032)
+at org.testng.TestNG.run(TestNG.java:1000)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:TestCases.RSAPITest@50b494a6]" name="setup" is-config="true" duration-ms="1" started-at="2020-04-22T18:48:13 EDT" finished-at="2020-04-22T18:48:13 EDT">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method status="PASS" signature="getPlaceUsingDEFAULTPlaceID()[pri:0, instance:TestCases.RSAPITest@50b494a6]" name="getPlaceUsingDEFAULTPlaceID" duration-ms="1506" started-at="2020-04-22T18:48:13 EDT" description="To get the default place ID" finished-at="2020-04-22T18:48:14 EDT">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- getPlaceUsingDEFAULTPlaceID -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestCases.RSAPITest@50b494a6]" name="tearDown" is-config="true" duration-ms="1" started-at="2020-04-22T18:48:14 EDT" finished-at="2020-04-22T18:48:14 EDT">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:TestCases.RSAPITest@50b494a6]" name="setup" is-config="true" duration-ms="1" started-at="2020-04-22T18:48:14 EDT" finished-at="2020-04-22T18:48:14 EDT">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method status="PASS" signature="changePlaceUsingDyamicPlaceID()[pri:0, instance:TestCases.RSAPITest@50b494a6]" name="changePlaceUsingDyamicPlaceID" duration-ms="1426" started-at="2020-04-22T18:48:14 EDT" description="Update the place with new data" depends-on-methods="TestCases.RSAPITest.getDynamicPlaceID" finished-at="2020-04-22T18:48:16 EDT">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- changePlaceUsingDyamicPlaceID -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestCases.RSAPITest@50b494a6]" name="tearDown" is-config="true" duration-ms="0" started-at="2020-04-22T18:48:16 EDT" finished-at="2020-04-22T18:48:16 EDT">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:TestCases.RSAPITest@50b494a6]" name="setup" is-config="true" duration-ms="1" started-at="2020-04-22T18:48:16 EDT" finished-at="2020-04-22T18:48:16 EDT">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method status="PASS" signature="deletePlaceUsingDynamicPlaceID()[pri:0, instance:TestCases.RSAPITest@50b494a6]" name="deletePlaceUsingDynamicPlaceID" duration-ms="1532" started-at="2020-04-22T18:48:16 EDT" description="Delete the newly added place" depends-on-methods="TestCases.RSAPITest.getDynamicPlaceID" finished-at="2020-04-22T18:48:17 EDT">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- deletePlaceUsingDynamicPlaceID -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestCases.RSAPITest@50b494a6]" name="tearDown" is-config="true" duration-ms="0" started-at="2020-04-22T18:48:17 EDT" finished-at="2020-04-22T18:48:17 EDT">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- TestCases.RSAPITest -->
-      <class name="TestCases.BasicCRUD">
-        <test-method status="PASS" signature="setup()[pri:0, instance:TestCases.BasicCRUD@6e6c3152]" name="setup" is-config="true" duration-ms="494" started-at="2020-04-22T18:48:05 EDT" finished-at="2020-04-22T18:48:05 EDT">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method status="PASS" signature="getCompetition()[pri:0, instance:TestCases.BasicCRUD@6e6c3152]" name="getCompetition" duration-ms="2444" started-at="2020-04-22T18:48:05 EDT" finished-at="2020-04-22T18:48:08 EDT">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- getCompetition -->
-      </class> <!-- TestCases.BasicCRUD -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+        </test-method> <!-- verifyTotalWithIndividualItems -->
+      </class> <!-- TestCases.AssertionTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
