@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="53" started-at="2020-04-17T16:58:43 EDT" finished-at="2020-04-17T16:58:43 EDT">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="53" started-at="2020-04-17T16:58:43 EDT" finished-at="2020-04-17T16:58:43 EDT">
+      <class name="com.suresh.selenium.AppiumTest">
+        <test-method status="PASS" signature="homePageTest()[pri:0, instance:com.suresh.selenium.AppiumTest@72d818d1]" name="homePageTest" duration-ms="1" started-at="2020-04-17T16:58:43 EDT" finished-at="2020-04-17T16:58:43 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageTest -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.suresh.selenium.AppiumTest@72d818d1]" name="loginTest" duration-ms="0" started-at="2020-04-17T16:58:43 EDT" finished-at="2020-04-17T16:58:43 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- com.suresh.selenium.AppiumTest -->
+      <class name="com.suresh.selenium.RestAssuredTest">
+        <test-method status="PASS" signature="homePageTest()[pri:0, instance:com.suresh.selenium.RestAssuredTest@27c20538]" name="homePageTest" duration-ms="9" started-at="2020-04-17T16:58:43 EDT" finished-at="2020-04-17T16:58:43 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageTest -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.suresh.selenium.RestAssuredTest@27c20538]" name="loginTest" duration-ms="0" started-at="2020-04-17T16:58:43 EDT" finished-at="2020-04-17T16:58:43 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- com.suresh.selenium.RestAssuredTest -->
+      <class name="com.suresh.selenium.SeleniumTest">
+        <test-method status="PASS" signature="homePageTest()[pri:0, instance:com.suresh.selenium.SeleniumTest@6e06451e]" name="homePageTest" duration-ms="0" started-at="2020-04-17T16:58:43 EDT" finished-at="2020-04-17T16:58:43 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageTest -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.suresh.selenium.SeleniumTest@6e06451e]" name="loginTest" duration-ms="1" started-at="2020-04-17T16:58:43 EDT" finished-at="2020-04-17T16:58:43 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- com.suresh.selenium.SeleniumTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

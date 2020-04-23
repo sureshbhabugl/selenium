@@ -1778,3 +1778,21 @@ java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org
   Class:     org.testng.remote.RemoteTestNG
   Args:      -serport 65122 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/7XMLFileParameterization.xml
 java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/487/0/.cp/lib/testng-remote.jar:/Users/suresh/eclipse-workspace/TestNGTutorial/bin:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 65122 -protocol json -d /Users/suresh/eclipse-workspace/TestNGTutorial/test-output /Users/suresh/eclipse-workspace/TestNGTutorial/7XMLFileParameterization.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-23 01:02:26.132
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-23 01:02:26.138
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-23 01:02:26.478
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-23 01:02:26.484
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-23 01:02:26.833
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-23 01:02:26.835
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
